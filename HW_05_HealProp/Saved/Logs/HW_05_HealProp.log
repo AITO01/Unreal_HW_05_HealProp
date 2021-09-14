@@ -9421,3 +9421,654 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.14-08.43.04:376][964]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.14-08.43.04:376][964]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
 [2021.09.14-08.43.04:376][964]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-08.50.24:770][855]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.14-08.50.24:794][855]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.14-08.50.26:749][ 85]LogContentBrowser: Attempting asset rename: NewFolder -> 怪物
+[2021.09.14-08.50.26:750][ 85]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.14-08.51.04:875][545]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\朝陽尖兵\第5章-Unreal\怪物\nightshade_j_friedrich.fbx)
+[2021.09.14-08.51.04:931][545]LogFbx: Loading FBX Scene from D:\朝陽尖兵\第5章-Unreal\怪物\nightshade_j_friedrich.fbx
+[2021.09.14-08.51.05:104][545]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-08.51.08:693][545]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.14-08.51.08:751][545]LogFbx: Warning: Not valid bind pose for Pose (skinCluster1) - Node Nightshade : The relative matrices do not match
+[2021.09.14-08.51.08:751][545]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2021.09.14-08.51.08:752][545]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Nightshade
+[2021.09.14-08.51.08:752][545]LogFbx: Warning: Recreating bind pose succeeded.
+[2021.09.14-08.51.08:766][545]LogMaterial: Display: Material /Game/怪物/Nightshade_MAT.Nightshade_MAT needed to have new flag set bUsedWithSkeletalMesh !
+[2021.09.14-08.51.08:778][545]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2021.09.14-08.51.08:968][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 24
+[2021.09.14-08.51.08:968][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 15
+[2021.09.14-08.51.08:968][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.09.14-08.51.08:968][545]LogTexture: Display: Building textures: Nightshade_diffuse (AutoDXT, 2048X2048)
+[2021.09.14-08.51.12:664][545]LogTexture: Display: Building textures: Nightshade_glow (AutoDXT, 2048X2048)
+[2021.09.14-08.51.13:191][545]LogTexture: Display: Building textures: Nightshade_specular (AutoDXT, 2048X2048)
+[2021.09.14-08.51.18:000][545]LogTexture: Display: Building textures: Nightshade_normal (BC5, 2048X2048)
+[2021.09.14-08.51.18:530][545]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2021.09.14-08.51.18:547][545]LogFbx: Triangulating skeletal mesh Nightshade
+[2021.09.14-08.51.20:112][545]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 24
+[2021.09.14-08.51.20:113][545]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 15
+[2021.09.14-08.51.20:113][545]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 9
+[2021.09.14-08.51.20:131][545]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2021.09.14-08.51.20:830][545]LogSkeletalMesh: Section 0: Material=0, 12996 triangles
+[2021.09.14-08.51.20:915][545]LogSkeletalMesh: Building Skeletal Mesh nightshade_j_friedrich...
+[2021.09.14-08.51.21:469][545]LogSkeletalMesh: Section 0: Material=0, 12996 triangles
+[2021.09.14-08.51.21:545][545]LogSkeletalMesh: Built Skeletal Mesh [0.64s] /Game/怪物/nightshade_j_friedrich.nightshade_j_friedrich
+[2021.09.14-08.51.21:649][545]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-08.51.21:649][545]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(0) Hips
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(1) Spine
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(2) Spine1
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(3) Spine2
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(4) Neck
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(5) Head
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(8) LeftArm
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(10) LeftHand
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.09.14-08.51.21:664][545]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(31) RightShoulder
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(32) RightArm
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(33) RightForeArm
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(34) RightHand
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(56) LeftLeg
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(57) LeftFoot
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(61) RightLeg
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(62) RightFoot
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(63) RightToeBase
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(64) RightToe_End
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(0) Hips
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(1) Spine
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(2) Spine1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(3) Spine2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(4) Neck
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(5) Head
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(8) LeftArm
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(10) LeftHand
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.09.14-08.51.21:665][545]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(31) RightShoulder
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(32) RightArm
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(33) RightForeArm
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(34) RightHand
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(56) LeftLeg
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(57) LeftFoot
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(61) RightLeg
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(62) RightFoot
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(63) RightToeBase
+[2021.09.14-08.51.21:666][545]LogFbx: SortedLinks :(64) RightToe_End
+[2021.09.14-08.51.21:667][545]LogFbx: Parsing AnimStack Take 001
+[2021.09.14-08.51.21:862][545]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/nightshade_j_friedrich_Anim_Take_001.nightshade_j_friedrich_Anim_Take_001
+[2021.09.14-08.51.21:862][545]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0239
+[2021.09.14-08.51.21:862][545]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02C9
+[2021.09.14-08.51.21:862][545]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02FB
+[2021.09.14-08.51.21:869][545]LogFbx: Parsing AnimStack mixamo.com
+[2021.09.14-08.51.21:890][545]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/nightshade_j_friedrich_Anim_mixamo_com.nightshade_j_friedrich_Anim_mixamo_com
+[2021.09.14-08.51.21:890][545]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0239
+[2021.09.14-08.51.21:890][545]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02C9
+[2021.09.14-08.51.21:890][545]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02FB
+[2021.09.14-08.51.21:957][545]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-08.51.22:900][584]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.09.14-08.51.23:028][590]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 3
+[2021.09.14-08.51.23:807][614]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 1
+[2021.09.14-08.53.04:515][943]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2021.09.14-08.53.04:524][943]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.043
+[2021.09.14-08.53.04:525][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物/nightshade_j_friedrich] ([1] browsable assets)...
+[2021.09.14-08.53.04:548][943]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/怪物/nightshade_j_friedrich.nightshade_j_friedrich]
+[2021.09.14-08.53.04:548][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物/nightshade_j_friedrich]
+[2021.09.14-08.53.04:608][943]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/nightshade_j_friedrich_Auto7AF751CA443E2FAD3EA4259BA2E94B914.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/怪物/nightshade_j_friedrich_Auto7.uasset'
+[2021.09.14-08.53.04:610][943]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/怪物/nightshade_j_friedrich_Skeleton] ([1] browsable assets)...
+[2021.09.14-08.53.04:610][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物/nightshade_j_friedrich_Skeleton]
+[2021.09.14-08.53.04:613][943]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/nightshade_j_friedrich_Skeleton_792B8B4D41CC8462E2DAC8ADCBBE9842.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/怪物/nightshade_j_friedrich_Skeleton_Auto7.uasset'
+[2021.09.14-08.53.04:614][943]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/怪物/nightshade_j_friedrich_PhysicsAsset] ([1] browsable assets)...
+[2021.09.14-08.53.04:632][943]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/怪物/nightshade_j_friedrich_PhysicsAsset.nightshade_j_friedrich_PhysicsAsset]
+[2021.09.14-08.53.04:632][943]OBJ SavePackage: Finished generating thumbnails for package [/Game/怪物/nightshade_j_friedrich_PhysicsAsset]
+[2021.09.14-08.53.04:642][943]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/nightshade_j_friedrich_PhysicsAs914D2E344AABAFE53BE18E92F966A600.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/怪物/nightshade_j_friedrich_PhysicsAsset_Auto7.uasset'
+[2021.09.14-08.53.04:644][943]LogFileHelpers: Auto-saving content packages took 0.120
+[2021.09.14-09.00.30:413][843]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-09.00.30:417][843]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-09.00.31:544][958]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.09.14-09.00.33:385][958]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-09.00.33:424][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Nightshade_diffuse" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_diffuse.uasset" SILENT=true
+[2021.09.14-09.00.33:788][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Nightshade_diffuse74678F354C9956E19FFEB68BFB8CC883.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_diffuse.uasset'
+[2021.09.14-09.00.33:793][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Nightshade_glow" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_glow.uasset" SILENT=true
+[2021.09.14-09.00.33:876][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Nightshade_glow6A58F3F04C157FDC3F56F29CAF2DE86D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_glow.uasset'
+[2021.09.14-09.00.33:877][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/nightshade_j_friedrich" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/nightshade_j_friedrich.uasset" SILENT=true
+[2021.09.14-09.00.33:913][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/nightshade_j_friedrichB063549A4F60774358F5009075255FDB.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/nightshade_j_friedrich.uasset'
+[2021.09.14-09.00.33:934][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/nightshade_j_friedrich_Anim_mixa29759231466B947F3894149CE6F84ACB.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/nightshade_j_friedrich_Anim_mixamo_com.uasset'
+[2021.09.14-09.00.33:953][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/nightshade_j_friedrich_Anim_Take3E4BAEC74C413970CCF727840FEE5D7D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/nightshade_j_friedrich_Anim_Take_001.uasset'
+[2021.09.14-09.00.33:960][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/nightshade_j_friedrich_PhysicsAs1F4306604631BC730F4364A86042C3C1.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/nightshade_j_friedrich_PhysicsAsset.uasset'
+[2021.09.14-09.00.33:964][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/nightshade_j_friedrich_Skeleton7DA1F2B94DEE4C641A8B77AFCB9E2003.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/nightshade_j_friedrich_Skeleton.uasset'
+[2021.09.14-09.00.33:985][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Nightshade_MAT" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_MAT.uasset" SILENT=true
+[2021.09.14-09.00.33:993][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Nightshade_MAT8732A932488A208FA02C0E8D14AE2DE7.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_MAT.uasset'
+[2021.09.14-09.00.34:000][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Nightshade_normal" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_normal.uasset" SILENT=true
+[2021.09.14-09.00.34:283][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Nightshade_normalF9D4DFFE4E231913DF6B1B929A8CA0AA.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_normal.uasset'
+[2021.09.14-09.00.34:290][958]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Nightshade_specular" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_specular.uasset" SILENT=true
+[2021.09.14-09.00.34:651][958]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Nightshade_specularC674EF3D4020867A420A4DA617104C46.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Nightshade_specular.uasset'
+[2021.09.14-09.00.34:669][958]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating AnimSequence /Game/怪物/nightshade_j_friedrich_Anim_mixamo_com.nightshade_j_friedrich_Anim_mixamo_com
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating AnimSequence /Game/怪物/nightshade_j_friedrich_Anim_Take_001.nightshade_j_friedrich_Anim_Take_001
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating PhysicsAsset /Game/怪物/nightshade_j_friedrich_PhysicsAsset.nightshade_j_friedrich_PhysicsAsset
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating Skeleton /Game/怪物/nightshade_j_friedrich_Skeleton.nightshade_j_friedrich_Skeleton
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating Texture2D /Game/怪物/Nightshade_normal.Nightshade_normal
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating Texture2D /Game/怪物/Nightshade_specular.Nightshade_specular
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating Texture2D /Game/怪物/Nightshade_glow.Nightshade_glow
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating Texture2D /Game/怪物/Nightshade_diffuse.Nightshade_diffuse
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating Material /Game/怪物/Nightshade_MAT.Nightshade_MAT
+[2021.09.14-09.00.34:669][958]LogContentValidation: Display: Validating SkeletalMesh /Game/怪物/nightshade_j_friedrich.nightshade_j_friedrich
+[2021.09.14-09.00.36:134][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-09.00.36:158][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2021.09.14-09.00.36:178][125]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景316DA36C4800DBAEA162A3B6478A516E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.14-09.00.36:190][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-09.00.36:285][125]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltData372E581641310E5C12EC7FBF19C76B50.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-09.00.36:298][125]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-09.00.36:298][125]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-09.00.36:298][125]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-09.01.11:184][130]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/怪物/nightshade_j_friedrich.nightshade_j_friedrich
+[2021.09.14-09.01.11:472][130]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0013 seconds. Added 1 classes and 2 folders.
+[2021.09.14-09.01.11:517][130]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.14-09.01.11:527][130]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0011 seconds. Added 1 classes and 0 folders.
+[2021.09.14-09.01.14:168][286]LogSlate: Window 'nightshade_j_friedrich' being destroyed
+[2021.09.14-09.01.14:173][286]LogSlate: Window 'nightshade_j_friedrich' being destroyed
+[2021.09.14-09.01.14:200][286]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.01.14:200][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.01.14:852][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanneryLockerRoom_Ceiling)
+[2021.09.14-09.03.04:903][948]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/怪物/nightshade_j_friedrich.nightshade_j_friedrich
+[2021.09.14-09.03.04:907][948]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.14-09.03.06:691][ 59]LogSlate: Window 'nightshade_j_friedrich' being destroyed
+[2021.09.14-09.03.06:696][ 59]LogSlate: Window 'nightshade_j_friedrich' being destroyed
+[2021.09.14-09.03.06:696][ 59]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.03.06:696][ 59]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.04.11:321][421]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/怪物/Nightshade_MAT.Nightshade_MAT
+[2021.09.14-09.04.11:323][421]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2021.09.14-09.04.11:484][421]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2021.09.14-09.04.11:496][421]LogMaterial: Display: Missing cached shader map for material Nightshade_MAT, compiling. 
+[2021.09.14-09.04.11:516][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.14-09.04.11:521][421]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.14-09.04.11:522][421]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.14-09.04.11:522][421]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.09.14-09.04.11:522][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.09.14-09.04.11:526][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.09.14-09.04.11:529][421]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.14-09.04.14:191][614]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2021.09.14-09.04.14:860][666]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.09.14-09.04.14:886][668]LogSlate: Window 'Nightshade_MAT' being destroyed
+[2021.09.14-09.04.14:918][668]LogSlate: Window 'Nightshade_MAT' being destroyed
+[2021.09.14-09.04.14:960][668]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.04.14:960][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.04.15:317][706]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 13
+[2021.09.14-09.04.16:526][842]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 12
+[2021.09.14-09.04.16:820][874]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 11
+[2021.09.14-09.04.17:132][901]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.14-09.04.17:656][917]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 9
+[2021.09.14-09.04.17:656][917]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 8
+[2021.09.14-09.04.17:795][921]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 7
+[2021.09.14-09.04.18:372][945]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 6
+[2021.09.14-09.04.18:538][951]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 5
+[2021.09.14-09.04.18:700][958]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 4
+[2021.09.14-09.04.19:221][972]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.09.14-09.04.19:241][973]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 2
+[2021.09.14-09.04.19:537][985]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 1
+[2021.09.14-09.06.37:456][540]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/怪物/Nightshade_MAT.Nightshade_MAT
+[2021.09.14-09.06.37:458][540]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.14-09.06.37:604][540]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.14-09.06.37:617][540]LogMaterial: Display: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2021.09.14-09.06.37:637][540]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 18
+[2021.09.14-09.06.37:637][540]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 17
+[2021.09.14-09.06.37:637][540]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 16
+[2021.09.14-09.06.37:639][540]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2021.09.14-09.06.37:643][540]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2021.09.14-09.06.37:647][540]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2021.09.14-09.06.37:652][540]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2021.09.14-09.06.39:130][644]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 31
+[2021.09.14-09.06.39:752][691]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 30
+[2021.09.14-09.06.40:855][773]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 29
+[2021.09.14-09.06.41:810][844]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 28
+[2021.09.14-09.06.42:224][876]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 27
+[2021.09.14-09.06.42:393][887]LogSlate: Window 'Nightshade_MAT' being destroyed
+[2021.09.14-09.06.42:401][887]LogSlate: Window 'Nightshade_MAT' being destroyed
+[2021.09.14-09.06.42:416][887]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.06.42:416][887]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.06.43:777][  0]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 10
+[2021.09.14-09.06.43:777][  0]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 9
+[2021.09.14-09.06.43:861][  3]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 8
+[2021.09.14-09.06.44:256][ 20]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.14-09.06.44:713][ 33]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 6
+[2021.09.14-09.06.44:841][ 35]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 5
+[2021.09.14-09.06.45:072][ 41]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 4
+[2021.09.14-09.06.45:724][ 66]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 3
+[2021.09.14-09.06.45:767][ 67]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 2
+[2021.09.14-09.06.45:957][ 75]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 1
+[2021.09.14-09.07.28:039][389]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/怪物/nightshade_j_friedrich.nightshade_j_friedrich
+[2021.09.14-09.07.28:045][389]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.14-09.07.42:668][536]LogSlate: Window 'nightshade_j_friedrich' being destroyed
+[2021.09.14-09.07.42:673][536]LogSlate: Window 'nightshade_j_friedrich' being destroyed
+[2021.09.14-09.07.42:701][536]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.07.42:701][536]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.23.15:395][507]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\朝陽尖兵\第5章-Unreal\怪物\動作\Dwarf Idle.fbx)
+[2021.09.14-09.23.15:405][507]LogFbx: Loading FBX Scene from D:\朝陽尖兵\第5章-Unreal\怪物\動作\Dwarf Idle.fbx
+[2021.09.14-09.23.15:436][507]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-09.23.52:868][507]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(0) Hips
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(1) Spine
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(2) Spine1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(3) Spine2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(4) Neck
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(5) Head
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(8) LeftArm
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(10) LeftHand
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(31) RightShoulder
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(32) RightArm
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(33) RightForeArm
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(34) RightHand
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.09.14-09.23.52:892][507]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(56) LeftLeg
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(57) LeftFoot
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(61) RightLeg
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(62) RightFoot
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(63) RightToeBase
+[2021.09.14-09.23.52:893][507]LogFbx: SortedLinks :(64) RightToe_End
+[2021.09.14-09.23.52:893][507]LogFbx: Parsing AnimStack mixamo.com
+[2021.09.14-09.23.53:637][507]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Dwarf_Idle.Dwarf_Idle
+[2021.09.14-09.23.53:637][507]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0239
+[2021.09.14-09.23.53:637][507]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02C9
+[2021.09.14-09.23.53:637][507]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02FB
+[2021.09.14-09.23.53:663][507]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Dwarf_Idle.Dwarf_Idle
+[2021.09.14-09.23.53:663][507]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\朝陽尖兵\第5章-Unreal\怪物\動作\Fast Run.fbx)
+[2021.09.14-09.23.53:857][507]LogFbx: Loading FBX Scene from D:\朝陽尖兵\第5章-Unreal\怪物\動作\Fast Run.fbx
+[2021.09.14-09.23.53:878][507]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(0) Hips
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(1) Spine
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(2) Spine1
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(3) Spine2
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(4) Neck
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(5) Head
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(8) LeftArm
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(10) LeftHand
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(31) RightShoulder
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(32) RightArm
+[2021.09.14-09.23.53:880][507]LogFbx: SortedLinks :(33) RightForeArm
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(34) RightHand
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(56) LeftLeg
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(57) LeftFoot
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(61) RightLeg
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(62) RightFoot
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(63) RightToeBase
+[2021.09.14-09.23.53:881][507]LogFbx: SortedLinks :(64) RightToe_End
+[2021.09.14-09.23.53:881][507]LogFbx: Parsing AnimStack mixamo.com
+[2021.09.14-09.23.57:392][507]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Fast_Run.Fast_Run
+[2021.09.14-09.23.57:392][507]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0239
+[2021.09.14-09.23.57:392][507]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02C9
+[2021.09.14-09.23.57:392][507]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02FB
+[2021.09.14-09.23.57:434][507]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Fast_Run.Fast_Run
+[2021.09.14-09.23.57:434][507]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\朝陽尖兵\第5章-Unreal\怪物\動作\Holding Walk.fbx)
+[2021.09.14-09.23.57:491][507]LogFbx: Loading FBX Scene from D:\朝陽尖兵\第5章-Unreal\怪物\動作\Holding Walk.fbx
+[2021.09.14-09.23.57:555][507]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(0) Hips
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(1) Spine
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(2) Spine1
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(3) Spine2
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(4) Neck
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(5) Head
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(8) LeftArm
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.09.14-09.23.57:559][507]LogFbx: SortedLinks :(10) LeftHand
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(31) RightShoulder
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(32) RightArm
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(33) RightForeArm
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(34) RightHand
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.09.14-09.23.57:560][507]LogFbx: SortedLinks :(56) LeftLeg
+[2021.09.14-09.23.57:561][507]LogFbx: SortedLinks :(57) LeftFoot
+[2021.09.14-09.23.57:561][507]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.09.14-09.23.57:561][507]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.09.14-09.23.57:561][507]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.09.14-09.23.57:561][507]LogFbx: SortedLinks :(61) RightLeg
+[2021.09.14-09.23.57:561][507]LogFbx: SortedLinks :(62) RightFoot
+[2021.09.14-09.23.57:561][507]LogFbx: SortedLinks :(63) RightToeBase
+[2021.09.14-09.23.57:561][507]LogFbx: SortedLinks :(64) RightToe_End
+[2021.09.14-09.23.57:561][507]LogFbx: Parsing AnimStack mixamo.com
+[2021.09.14-09.23.57:741][507]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0239
+[2021.09.14-09.23.57:759][507]LogFactory: FactoryCreateFile: AnimSequence with FbxFactory (0 0 D:\朝陽尖兵\第5章-Unreal\怪物\動作\Standing 2H Magic Attack 03.fbx)
+[2021.09.14-09.23.57:774][507]LogFbx: Loading FBX Scene from D:\朝陽尖兵\第5章-Unreal\怪物\動作\Standing 2H Magic Attack 03.fbx
+[2021.09.14-09.23.57:852][507]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(0) Hips
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(1) Spine
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(2) Spine1
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(3) Spine2
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(4) Neck
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(5) Head
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(6) HeadTop_End
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(7) LeftShoulder
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(8) LeftArm
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(9) LeftForeArm
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(10) LeftHand
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(23) LeftHandRing1
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(24) LeftHandRing2
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(25) LeftHandRing3
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(26) LeftHandRing4
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(31) RightShoulder
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(32) RightArm
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(33) RightForeArm
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(34) RightHand
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(35) RightHandPinky1
+[2021.09.14-09.23.57:854][507]LogFbx: SortedLinks :(36) RightHandPinky2
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(37) RightHandPinky3
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(38) RightHandPinky4
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(39) RightHandRing1
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(40) RightHandRing2
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(41) RightHandRing3
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(42) RightHandRing4
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(47) RightHandIndex1
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(48) RightHandIndex2
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(49) RightHandIndex3
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(50) RightHandIndex4
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(51) RightHandThumb1
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(52) RightHandThumb2
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(53) RightHandThumb3
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(54) RightHandThumb4
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(55) LeftUpLeg
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(56) LeftLeg
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(57) LeftFoot
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(58) LeftToeBase
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(59) LeftToe_End
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(60) RightUpLeg
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(61) RightLeg
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(62) RightFoot
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(63) RightToeBase
+[2021.09.14-09.23.57:855][507]LogFbx: SortedLinks :(64) RightToe_End
+[2021.09.14-09.23.57:856][507]LogFbx: Parsing AnimStack mixamo.com
+[2021.09.14-09.24.28:736][507]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Standing_2H_Magic_Attack_03.Standing_2H_Magic_Attack_03
+[2021.09.14-09.24.28:736][507]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Holding_Walk.Holding_Walk
+[2021.09.14-09.24.29:225][510]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/怪物/Standing_2H_Magic_Attack_03.Standing_2H_Magic_Attack_03
+[2021.09.14-09.25.19:831][840]LogUObjectHash: Compacting FUObjectHashTables data took   4.73ms
+[2021.09.14-09.25.21:199][840]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-09.25.21:235][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Dwarf_Idle" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Dwarf_Idle.uasset" SILENT=true
+[2021.09.14-09.25.21:243][840]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Dwarf_Idle208A580E47113A47D7FA25B6B204EE36.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Dwarf_Idle.uasset'
+[2021.09.14-09.25.21:254][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Fast_Run" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Fast_Run.uasset" SILENT=true
+[2021.09.14-09.25.21:264][840]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Fast_Run33538D334D3900CB7D6739AC05C0F7C9.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Fast_Run.uasset'
+[2021.09.14-09.25.21:275][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Holding_Walk" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Holding_Walk.uasset" SILENT=true
+[2021.09.14-09.25.21:281][840]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Holding_Walk1DD69C6E45E149D67EC845874DDF84A4.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Holding_Walk.uasset'
+[2021.09.14-09.25.21:293][840]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/怪物/Standing_2H_Magic_Attack_03" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Standing_2H_Magic_Attack_03.uasset" SILENT=true
+[2021.09.14-09.25.21:363][840]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Standing_2H_Magic_Attack_03C6EBF16240FA0C8ECCE1FEA68E28AD13.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/怪物/Standing_2H_Magic_Attack_03.uasset'
+[2021.09.14-09.25.21:376][840]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-09.25.21:376][840]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Standing_2H_Magic_Attack_03.Standing_2H_Magic_Attack_03
+[2021.09.14-09.25.21:376][840]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Holding_Walk.Holding_Walk
+[2021.09.14-09.25.21:376][840]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Fast_Run.Fast_Run
+[2021.09.14-09.25.21:376][840]LogContentValidation: Display: Validating AnimSequence /Game/怪物/Dwarf_Idle.Dwarf_Idle
+[2021.09.14-09.25.23:771][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-09.25.23:816][112]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2021.09.14-09.25.23:836][112]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景21DCA9C645A8A5BDD35A0994A9007334.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.14-09.25.23:847][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-09.25.23:942][112]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltData16D74BFD4C8314B6F816DEBB1A6C646F.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-09.25.23:955][112]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-09.25.23:955][112]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-09.25.23:955][112]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
