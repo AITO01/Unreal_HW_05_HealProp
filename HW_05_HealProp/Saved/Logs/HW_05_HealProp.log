@@ -10072,3 +10072,1336 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.14-09.25.23:955][112]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.14-09.25.23:955][112]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
 [2021.09.14-09.25.23:955][112]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-09.26.44:621][335]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.09.14-09.26.46:587][335]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-09.26.46:669][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.09.14-09.26.46:699][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2021.09.14-09.26.46:735][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.09.14-09.26.46:764][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2021.09.14-09.26.48:051][445]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.14-09.26.49:721][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-09.26.49:751][614]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.14-09.26.49:769][614]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景38E442AD45442620A2A40EBCA8F3DD04.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.14-09.26.49:781][614]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-09.26.49:878][614]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltDataF80976D542BDD5E4B97CAE820C5D2630.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-09.26.49:892][614]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-09.26.49:892][614]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-09.26.49:892][614]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-09.27.35:398][848]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.14-09.27.35:403][848]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.09.14-09.27.35:418][848]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.09.14-09.27.43:059][484]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_怪物
+[2021.09.14-09.27.43:064][484]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.09.14-09.28.11:157][731]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.28.13:890][912]LogSlate: Window 'BP_怪物' being destroyed
+[2021.09.14-09.30.41:290][980]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-09.30.41:367][980]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2021.09.14-09.30.41:954][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-09.30.41:963][ 40]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_怪物6DCB7D1E4C2F000EC35344A733289550.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset'
+[2021.09.14-09.30.41:976][ 40]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-09.30.41:976][ 40]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.46.36:559][456]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-09.46.36:624][456]LogUObjectHash: Compacting FUObjectHashTables data took   4.30ms
+[2021.09.14-09.46.37:012][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-09.46.37:022][497]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_怪物3FE652AF4B85545F8411B9809E8883CB.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset'
+[2021.09.14-09.46.37:034][497]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-09.46.37:034][497]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.47.17:704][948]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2021.09.14-09.47.17:759][948]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.09.14-09.47.27:741][948]LogSlate: Window 'Create Animation Blueprint' being destroyed
+[2021.09.14-09.47.27:749][948]LogContentBrowser: Deferred new asset file creation: NewAnimBlueprint
+[2021.09.14-09.47.27:765][948]LogContentBrowser: Creating deferred item: NewAnimBlueprint
+[2021.09.14-09.47.37:444][705]LogContentBrowser: Attempting asset rename: NewAnimBlueprint -> BA_怪物動畫
+[2021.09.14-09.47.37:448][705]LogContentBrowser: End creating deferred item NewAnimBlueprint
+[2021.09.14-09.47.41:182][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-09.47.41:207][ 48]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫65CEF21F4DE61CA153E013A0214E34CD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-09.47.41:222][ 48]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-09.47.41:222][ 48]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-09.47.42:184][125]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.09.14-09.47.57:106][561]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-09.47.57:155][561]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.14-09.47.57:921][561]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.09.14-09.47.58:483][623]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.47.58:483][623]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.47.58:981][666]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.47.58:981][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.47.58:990][666]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.47.58:990][666]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.47.59:385][703]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2021.09.14-09.47.59:385][703]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.47.59:385][703]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.48.10:828][ 19]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.09.14-09.48.10:928][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   3.96ms
+[2021.09.14-09.48.11:498][ 75]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-09.48.11:507][ 75]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫CDB94795402B0D7C1721F5B6CFE99BAA.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-09.48.11:519][ 75]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-09.48.11:519][ 75]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-09.48.56:357][320]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.49.02:747][839]LogWorld: UWorld::CleanupWorld for World_54, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.49.02:747][839]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.49.10:924][336]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.49.29:681][831]LogSlate: Window 'Class Defaults' being destroyed
+[2021.09.14-09.49.53:290][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-09.49.53:296][365]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫B30794814B735D83D0C5B4AC62905B37.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-09.49.53:308][365]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-09.49.53:308][365]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-09.49.54:297][474]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.49.54:297][474]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.49.57:824][833]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.50.10:297][923]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.50.10:297][923]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.50.10:356][923]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.50.30:784][972]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.14-09.50.35:531][501]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-09.50.35:656][501]LogUObjectHash: Compacting FUObjectHashTables data took   4.69ms
+[2021.09.14-09.50.36:634][604]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-09.50.36:643][604]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_怪物1A547E98487295DF99D67C94140B8966.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset'
+[2021.09.14-09.50.36:653][604]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-09.50.36:653][604]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.51.06:914][125]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-09.51.06:978][125]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2021.09.14-09.51.07:970][234]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-09.51.07:979][234]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_怪物0B9F802D47898F2F85DCE9889B963708.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset'
+[2021.09.14-09.51.07:993][234]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-09.51.07:993][234]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.51.18:523][486]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-09.51.18:588][486]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.09.14-09.51.19:518][589]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-09.51.19:527][589]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_怪物37048AF3489661890ECBA38D042DDB9F.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset'
+[2021.09.14-09.51.19:537][589]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-09.51.19:537][589]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.51.28:058][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.51.28:064][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.51.28:064][ 55]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:51:28)
+[2021.09.14-09.51.28:094][ 55]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.51.28:098][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003906s)
+[2021.09.14-09.51.28:099][ 55]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.51.28:099][ 55]LogPlayLevel: PIE: World Init took: (0.001272s)
+[2021.09.14-09.51.28:099][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005344s)
+[2021.09.14-09.51.28:126][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.09.14-09.51.28:129][ 55]LogAudio: Display: Creating Audio Device:                 Id: 131, Scope: Unique, Realtime: True
+[2021.09.14-09.51.28:129][ 55]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.51.28:129][ 55]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.51.28:129][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.51.28:129][ 55]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.51.28:129][ 55]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.51.28:129][ 55]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.51.28:129][ 55]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.51.28:129][ 55]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.51.28:129][ 55]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.51.28:129][ 55]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.51.28:134][ 55]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.51.28:134][ 55]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.51.28:147][ 55]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.51.28:148][ 55]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.51.28:148][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.51.28:148][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.51.28:148][ 55]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.51.28:148][ 55]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.51.28:148][ 55]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.51.28:165][ 55]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.51.28:165][ 55]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.51.28:165][ 55]LogInit: FAudioDevice initialized.
+[2021.09.14-09.51.28:165][ 55]LogAudio: Display: Audio Device (ID: 131) registered with world '遊戲場景'.
+[2021.09.14-09.51.28:173][ 55]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.51.28:175][ 55]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.51.28
+[2021.09.14-09.51.28:175][ 55]LogWorld: Bringing up level for play took: 0.001974
+[2021.09.14-09.51.28:176][ 55]LogOnline: OSS: Creating online subsystem instance for: :Context_182
+[2021.09.14-09.51.28:180][ 55]PIE: Server logged in
+[2021.09.14-09.51.28:181][ 55]PIE: Play in editor total start time 0.118 seconds.
+[2021.09.14-09.51.28:856][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.51.28:856][129]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.51.28:856][129]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.51.28:856][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.51.28:867][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.51.28:886][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.51.28:910][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.51.28:911][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.51.28:911][129]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.51.28:932][129]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2021.09.14-09.51.28:972][130]LogPlayLevel: Display: Destroying online subsystem :Context_182
+[2021.09.14-09.51.31:996][477]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.51.32:002][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.51.32:002][477]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:51:32)
+[2021.09.14-09.51.32:002][477]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.51.32:006][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004303s)
+[2021.09.14-09.51.32:007][477]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.51.32:008][477]LogPlayLevel: PIE: World Init took: (0.001310s)
+[2021.09.14-09.51.32:008][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005788s)
+[2021.09.14-09.51.32:034][477]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.09.14-09.51.32:037][477]LogAudio: Display: Creating Audio Device:                 Id: 132, Scope: Unique, Realtime: True
+[2021.09.14-09.51.32:037][477]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.51.32:037][477]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.51.32:037][477]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.51.32:037][477]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.51.32:037][477]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.51.32:037][477]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.51.32:037][477]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.51.32:037][477]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.51.32:037][477]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.51.32:037][477]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.51.32:042][477]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.51.32:042][477]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.51.32:057][477]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.51.32:057][477]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.51.32:057][477]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.51.32:057][477]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.51.32:057][477]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.51.32:057][477]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.51.32:057][477]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.51.32:072][477]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.51.32:072][477]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.51.32:072][477]LogInit: FAudioDevice initialized.
+[2021.09.14-09.51.32:072][477]LogAudio: Display: Audio Device (ID: 132) registered with world '遊戲場景'.
+[2021.09.14-09.51.32:082][477]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.51.32:084][477]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.51.32
+[2021.09.14-09.51.32:085][477]LogWorld: Bringing up level for play took: 0.001986
+[2021.09.14-09.51.32:085][477]LogOnline: OSS: Creating online subsystem instance for: :Context_183
+[2021.09.14-09.51.32:089][477]PIE: Server logged in
+[2021.09.14-09.51.32:090][477]PIE: Play in editor total start time 0.089 seconds.
+[2021.09.14-09.51.36:915][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.51.36:915][ 48]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.51.36:915][ 48]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.51.36:915][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.51.36:925][ 48]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.51.36:944][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.51.36:968][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.51.36:968][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.51.36:969][ 48]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.51.36:989][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2021.09.14-09.51.37:029][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_183
+[2021.09.14-09.51.43:737][744]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.51.43:745][744]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.51.43:745][744]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:51:43)
+[2021.09.14-09.51.43:774][744]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.51.43:778][744]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003968s)
+[2021.09.14-09.51.43:779][744]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.51.43:779][744]LogPlayLevel: PIE: World Init took: (0.001145s)
+[2021.09.14-09.51.43:779][744]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005269s)
+[2021.09.14-09.51.43:806][744]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2021.09.14-09.51.43:809][744]LogAudio: Display: Creating Audio Device:                 Id: 133, Scope: Unique, Realtime: True
+[2021.09.14-09.51.43:809][744]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.51.43:809][744]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.51.43:809][744]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.51.43:809][744]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.51.43:809][744]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.51.43:809][744]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.51.43:809][744]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.51.43:809][744]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.51.43:809][744]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.51.43:809][744]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.51.43:814][744]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.51.43:814][744]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.51.43:828][744]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.51.43:829][744]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.51.43:829][744]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.51.43:829][744]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.51.43:829][744]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.51.43:829][744]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.51.43:829][744]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.51.43:841][744]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.51.43:842][744]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.51.43:842][744]LogInit: FAudioDevice initialized.
+[2021.09.14-09.51.43:842][744]LogAudio: Display: Audio Device (ID: 133) registered with world '遊戲場景'.
+[2021.09.14-09.51.43:853][744]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.51.43:856][744]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.51.43
+[2021.09.14-09.51.43:890][744]LogWorld: Bringing up level for play took: 0.036011
+[2021.09.14-09.51.43:890][744]LogOnline: OSS: Creating online subsystem instance for: :Context_184
+[2021.09.14-09.51.43:895][744]PIE: Server logged in
+[2021.09.14-09.51.43:896][744]PIE: Play in editor total start time 0.154 seconds.
+[2021.09.14-09.52.07:715][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.52.07:715][416]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.52.07:716][416]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.52.07:716][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.52.07:724][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.52.07:765][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.52.07:790][416]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.52.07:790][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.52.07:791][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.52.07:807][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.52.07:810][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.09.14-09.52.07:857][417]LogPlayLevel: Display: Destroying online subsystem :Context_184
+[2021.09.14-09.52.10:652][717]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.52.10:659][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.52.10:659][717]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:52:10)
+[2021.09.14-09.52.10:694][717]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.52.10:698][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004024s)
+[2021.09.14-09.52.10:699][717]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.52.10:699][717]LogPlayLevel: PIE: World Init took: (0.001011s)
+[2021.09.14-09.52.10:699][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005189s)
+[2021.09.14-09.52.10:726][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.09.14-09.52.10:728][717]LogAudio: Display: Creating Audio Device:                 Id: 134, Scope: Unique, Realtime: True
+[2021.09.14-09.52.10:728][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.52.10:728][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.52.10:728][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.52.10:728][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.52.10:728][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.52.10:728][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.52.10:728][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.52.10:728][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.52.10:729][717]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.52.10:729][717]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.52.10:733][717]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.52.10:733][717]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.52.10:746][717]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.52.10:747][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.52.10:747][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.52.10:747][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.52.10:747][717]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.52.10:747][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.52.10:747][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.52.10:762][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.52.10:762][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.52.10:762][717]LogInit: FAudioDevice initialized.
+[2021.09.14-09.52.10:762][717]LogAudio: Display: Audio Device (ID: 134) registered with world '遊戲場景'.
+[2021.09.14-09.52.10:771][717]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.52.10:774][717]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.52.10
+[2021.09.14-09.52.10:774][717]LogWorld: Bringing up level for play took: 0.002465
+[2021.09.14-09.52.10:775][717]LogOnline: OSS: Creating online subsystem instance for: :Context_185
+[2021.09.14-09.52.10:779][717]PIE: Server logged in
+[2021.09.14-09.52.10:780][717]PIE: Play in editor total start time 0.122 seconds.
+[2021.09.14-09.52.11:526][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.52.11:526][798]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.52.11:526][798]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.52.11:526][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.52.11:537][798]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.52.11:577][798]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.52.11:600][798]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.52.11:601][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.52.11:602][798]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.52.11:618][798]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.52.11:622][798]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.09.14-09.52.11:660][799]LogPlayLevel: Display: Destroying online subsystem :Context_185
+[2021.09.14-09.52.26:260][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-09.52.26:286][433]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2021.09.14-09.52.26:307][433]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景B38C7AEE4DD9F063C31B55BE5CAF12F2.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.14-09.52.26:321][433]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-09.52.26:417][433]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltData58C6CF3A4D02DE5B8702159068979308.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-09.52.26:432][433]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-09.52.26:432][433]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-09.52.26:432][433]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-09.52.27:709][560]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.52.27:715][560]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.52.27:715][560]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:52:27)
+[2021.09.14-09.52.27:715][560]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.52.27:719][560]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003851s)
+[2021.09.14-09.52.27:721][560]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.52.27:721][560]LogPlayLevel: PIE: World Init took: (0.001851s)
+[2021.09.14-09.52.27:721][560]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005855s)
+[2021.09.14-09.52.27:749][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.09.14-09.52.27:750][560]LogAudio: Display: Creating Audio Device:                 Id: 135, Scope: Unique, Realtime: True
+[2021.09.14-09.52.27:750][560]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.52.27:750][560]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.52.27:750][560]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.52.27:750][560]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.52.27:750][560]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.52.27:750][560]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.52.27:750][560]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.52.27:750][560]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.52.27:751][560]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.52.27:751][560]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.52.27:756][560]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.52.27:756][560]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.52.27:769][560]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.52.27:770][560]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.52.27:770][560]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.52.27:770][560]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.52.27:770][560]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.52.27:770][560]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.52.27:770][560]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.52.27:784][560]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.52.27:784][560]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.52.27:784][560]LogInit: FAudioDevice initialized.
+[2021.09.14-09.52.27:784][560]LogAudio: Display: Audio Device (ID: 135) registered with world '遊戲場景'.
+[2021.09.14-09.52.27:797][560]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.52.27:800][560]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.52.27
+[2021.09.14-09.52.27:800][560]LogWorld: Bringing up level for play took: 0.002277
+[2021.09.14-09.52.27:800][560]LogOnline: OSS: Creating online subsystem instance for: :Context_186
+[2021.09.14-09.52.27:805][560]PIE: Server logged in
+[2021.09.14-09.52.27:806][560]PIE: Play in editor total start time 0.092 seconds.
+[2021.09.14-09.52.49:036][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.52.49:036][ 93]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.52.49:036][ 93]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.52.49:036][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.52.49:050][ 93]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.52.49:090][ 93]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.52.49:115][ 93]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.52.49:115][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.52.49:116][ 93]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.52.49:134][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.52.49:137][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2021.09.14-09.52.49:184][ 94]LogPlayLevel: Display: Destroying online subsystem :Context_186
+[2021.09.14-09.54.21:167][626]BlueprintLog: New page: Compile BP_怪物
+[2021.09.14-09.54.21:303][626]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.14-09.54.21:988][698]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_怪物" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset" SILENT=true
+[2021.09.14-09.54.21:997][698]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_怪物7F69DE39495C0C42D1125AADD197C03D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_怪物.uasset'
+[2021.09.14-09.54.22:007][698]AssetCheck: New page: Asset Save: BP_怪物
+[2021.09.14-09.54.22:008][698]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_怪物.BP_怪物
+[2021.09.14-09.54.33:487][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-09.54.33:513][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2021.09.14-09.54.33:534][ 66]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景03CF3DE349F8EAA94DF1B0818FD3DC6F.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.14-09.54.33:547][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-09.54.33:641][ 66]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltData2A66A4DB4C6EC3049C5604A030F6C073.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-09.54.33:655][ 66]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-09.54.33:655][ 66]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-09.54.33:655][ 66]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-09.54.35:345][239]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.54.35:352][239]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.54.35:352][239]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:54:35)
+[2021.09.14-09.54.35:385][239]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.54.35:389][239]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003899s)
+[2021.09.14-09.54.35:389][239]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.54.35:390][239]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2021.09.14-09.54.35:390][239]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005379s)
+[2021.09.14-09.54.35:418][239]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.09.14-09.54.35:419][239]LogAudio: Display: Creating Audio Device:                 Id: 136, Scope: Unique, Realtime: True
+[2021.09.14-09.54.35:419][239]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.54.35:419][239]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.54.35:419][239]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.54.35:419][239]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.54.35:420][239]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.54.35:420][239]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.54.35:420][239]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.54.35:420][239]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.54.35:420][239]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.54.35:420][239]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.54.35:425][239]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.54.35:425][239]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.54.35:438][239]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.54.35:438][239]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.54.35:438][239]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.54.35:438][239]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.54.35:439][239]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.54.35:439][239]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.54.35:439][239]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.54.35:454][239]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.54.35:454][239]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.54.35:454][239]LogInit: FAudioDevice initialized.
+[2021.09.14-09.54.35:454][239]LogAudio: Display: Audio Device (ID: 136) registered with world '遊戲場景'.
+[2021.09.14-09.54.35:462][239]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.54.35:464][239]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.54.35
+[2021.09.14-09.54.35:465][239]LogWorld: Bringing up level for play took: 0.002533
+[2021.09.14-09.54.35:465][239]LogOnline: OSS: Creating online subsystem instance for: :Context_187
+[2021.09.14-09.54.35:469][239]PIE: Server logged in
+[2021.09.14-09.54.35:470][239]PIE: Play in editor total start time 0.12 seconds.
+[2021.09.14-09.54.47:186][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.54.47:186][632]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.54.47:186][632]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.54.47:187][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.54.47:195][632]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.54.47:235][632]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.54.47:259][632]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.54.47:259][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.54.47:260][632]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.54.47:277][632]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.54.47:280][632]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2021.09.14-09.54.47:325][633]LogPlayLevel: Display: Destroying online subsystem :Context_187
+[2021.09.14-09.54.52:228][ 43]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.55.01:302][ 46]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.55.01:381][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   2.44ms
+[2021.09.14-09.55.02:347][143]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.55.02:416][143]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制D2FE00F3451EA53278CB138F2A3A1F1F.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.55.02:427][143]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.55.02:427][143]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.55.03:151][225]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.55.03:158][225]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.55.03:158][225]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:55:03)
+[2021.09.14-09.55.03:158][225]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.55.03:162][225]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003902s)
+[2021.09.14-09.55.03:163][225]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.55.03:163][225]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2021.09.14-09.55.03:163][225]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005116s)
+[2021.09.14-09.55.03:194][225]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.09.14-09.55.03:196][225]LogAudio: Display: Creating Audio Device:                 Id: 137, Scope: Unique, Realtime: True
+[2021.09.14-09.55.03:196][225]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.55.03:196][225]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.55.03:196][225]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.55.03:196][225]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.55.03:196][225]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.55.03:196][225]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.55.03:196][225]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.55.03:196][225]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.55.03:196][225]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.55.03:197][225]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.55.03:201][225]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.55.03:201][225]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.55.03:217][225]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.55.03:217][225]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.55.03:217][225]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.55.03:217][225]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.55.03:217][225]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.55.03:218][225]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.55.03:218][225]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.55.03:229][225]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.55.03:229][225]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.55.03:229][225]LogInit: FAudioDevice initialized.
+[2021.09.14-09.55.03:229][225]LogAudio: Display: Audio Device (ID: 137) registered with world '遊戲場景'.
+[2021.09.14-09.55.03:283][225]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.55.03:283][225]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.55.03:286][225]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.55.03
+[2021.09.14-09.55.03:286][225]LogWorld: Bringing up level for play took: 0.002568
+[2021.09.14-09.55.03:286][225]LogOnline: OSS: Creating online subsystem instance for: :Context_189
+[2021.09.14-09.55.03:292][225]PIE: Server logged in
+[2021.09.14-09.55.03:293][225]PIE: Play in editor total start time 0.136 seconds.
+[2021.09.14-09.55.13:046][362]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.55.13:046][362]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.55.13:046][362]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.55.13:049][362]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.55.13:050][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.55.13:063][362]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.55.13:104][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.55.13:131][362]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.55.13:132][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.55.13:133][362]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.55.13:153][362]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.09.14-09.55.13:168][363]LogPlayLevel: Display: Destroying online subsystem :Context_189
+[2021.09.14-09.55.17:070][819]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.55.17:147][819]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.14-09.55.17:814][878]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.55.17:883][878]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制7DE07BDE4C14150C7723A38E9F10EC26.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.55.17:898][878]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.55.17:898][878]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.55.18:393][936]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.55.18:399][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.55.18:399][936]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:55:18)
+[2021.09.14-09.55.18:399][936]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.55.18:403][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004355s)
+[2021.09.14-09.55.18:405][936]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.55.18:405][936]LogPlayLevel: PIE: World Init took: (0.001438s)
+[2021.09.14-09.55.18:405][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005927s)
+[2021.09.14-09.55.18:437][936]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2021.09.14-09.55.18:438][936]LogAudio: Display: Creating Audio Device:                 Id: 138, Scope: Unique, Realtime: True
+[2021.09.14-09.55.18:438][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.55.18:438][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.55.18:438][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.55.18:438][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.55.18:439][936]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.55.18:439][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.55.18:439][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.55.18:439][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.55.18:439][936]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.55.18:439][936]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.55.18:444][936]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.55.18:444][936]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.55.18:458][936]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.55.18:458][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.55.18:458][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.55.18:458][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.55.18:459][936]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.55.18:459][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.55.18:459][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.55.18:473][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.55.18:473][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.55.18:473][936]LogInit: FAudioDevice initialized.
+[2021.09.14-09.55.18:473][936]LogAudio: Display: Audio Device (ID: 138) registered with world '遊戲場景'.
+[2021.09.14-09.55.18:534][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.55.18:535][936]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.55.18:537][936]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.55.18
+[2021.09.14-09.55.18:538][936]LogWorld: Bringing up level for play took: 0.002435
+[2021.09.14-09.55.18:538][936]LogOnline: OSS: Creating online subsystem instance for: :Context_190
+[2021.09.14-09.55.18:544][936]PIE: Server logged in
+[2021.09.14-09.55.18:545][936]PIE: Play in editor total start time 0.147 seconds.
+[2021.09.14-09.55.26:405][844]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.55.26:405][844]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.55.26:406][844]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.55.26:410][844]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.55.26:410][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.55.26:420][844]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.55.26:461][844]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.55.26:488][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.55.26:489][844]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.55.26:510][844]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.09.14-09.55.26:529][845]LogPlayLevel: Display: Destroying online subsystem :Context_190
+[2021.09.14-09.55.32:129][496]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.55.32:210][496]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2021.09.14-09.55.32:765][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.55.32:833][543]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制44CA85774E26430D63A98E970BD6D414.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.55.32:845][543]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.55.32:845][543]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.55.33:621][625]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.55.33:627][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.55.33:627][625]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:55:33)
+[2021.09.14-09.55.33:627][625]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.55.33:631][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003948s)
+[2021.09.14-09.55.33:632][625]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.55.33:632][625]LogPlayLevel: PIE: World Init took: (0.001209s)
+[2021.09.14-09.55.33:632][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005294s)
+[2021.09.14-09.55.33:664][625]LogUObjectHash: Compacting FUObjectHashTables data took   2.78ms
+[2021.09.14-09.55.33:665][625]LogAudio: Display: Creating Audio Device:                 Id: 139, Scope: Unique, Realtime: True
+[2021.09.14-09.55.33:665][625]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.55.33:665][625]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.55.33:665][625]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.55.33:665][625]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.55.33:665][625]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.55.33:665][625]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.55.33:665][625]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.55.33:665][625]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.55.33:666][625]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.55.33:666][625]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.55.33:670][625]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.55.33:670][625]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.55.33:684][625]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.55.33:684][625]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.55.33:684][625]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.55.33:684][625]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.55.33:685][625]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.55.33:685][625]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.55.33:685][625]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.55.33:699][625]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.55.33:699][625]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.55.33:699][625]LogInit: FAudioDevice initialized.
+[2021.09.14-09.55.33:699][625]LogAudio: Display: Audio Device (ID: 139) registered with world '遊戲場景'.
+[2021.09.14-09.55.33:750][625]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.55.33:751][625]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.55.33:753][625]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.55.33
+[2021.09.14-09.55.33:754][625]LogWorld: Bringing up level for play took: 0.002488
+[2021.09.14-09.55.33:754][625]LogOnline: OSS: Creating online subsystem instance for: :Context_191
+[2021.09.14-09.55.33:760][625]PIE: Server logged in
+[2021.09.14-09.55.33:761][625]PIE: Play in editor total start time 0.135 seconds.
+[2021.09.14-09.55.40:786][431]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.55.40:786][431]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.55.40:786][431]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.55.40:790][431]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.55.40:790][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.55.40:801][431]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.55.40:843][431]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.55.40:870][431]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.55.40:870][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.55.40:871][431]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.55.40:891][431]LogUObjectHash: Compacting FUObjectHashTables data took   2.30ms
+[2021.09.14-09.55.40:906][432]LogPlayLevel: Display: Destroying online subsystem :Context_191
+[2021.09.14-09.55.44:452][842]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.55.44:528][842]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.09.14-09.55.45:114][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.55.45:182][891]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制724A3B954AFDB079E2525292C875A9AD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.55.45:195][891]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.55.45:195][891]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.55.48:894][127]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.55.48:900][127]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.55.48:900][127]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:55:48)
+[2021.09.14-09.55.48:900][127]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.55.48:904][127]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004032s)
+[2021.09.14-09.55.48:905][127]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.55.48:905][127]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2021.09.14-09.55.48:905][127]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005266s)
+[2021.09.14-09.55.48:938][127]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.09.14-09.55.48:940][127]LogAudio: Display: Creating Audio Device:                 Id: 140, Scope: Unique, Realtime: True
+[2021.09.14-09.55.48:940][127]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.55.48:940][127]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.55.48:940][127]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.55.48:940][127]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.55.48:940][127]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.55.48:940][127]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.55.48:940][127]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.55.48:940][127]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.55.48:940][127]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.55.48:940][127]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.55.48:945][127]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.55.48:945][127]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.55.48:958][127]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.55.48:959][127]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.55.48:959][127]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.55.48:959][127]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.55.48:959][127]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.55.48:959][127]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.55.48:959][127]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.55.48:973][127]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.55.48:974][127]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.55.48:974][127]LogInit: FAudioDevice initialized.
+[2021.09.14-09.55.48:974][127]LogAudio: Display: Audio Device (ID: 140) registered with world '遊戲場景'.
+[2021.09.14-09.55.49:034][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.55.49:034][127]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.55.49:037][127]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.55.49
+[2021.09.14-09.55.49:038][127]LogWorld: Bringing up level for play took: 0.002462
+[2021.09.14-09.55.49:038][127]LogOnline: OSS: Creating online subsystem instance for: :Context_192
+[2021.09.14-09.55.49:044][127]PIE: Server logged in
+[2021.09.14-09.55.49:045][127]PIE: Play in editor total start time 0.146 seconds.
+[2021.09.14-09.55.55:226][835]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.55.55:226][835]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.55.55:227][835]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.55.55:230][835]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.55.55:231][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.55.55:240][835]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.55.55:282][835]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.55.55:309][835]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.55.55:309][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.55.55:310][835]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.55.55:331][835]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2021.09.14-09.55.55:346][836]LogPlayLevel: Display: Destroying online subsystem :Context_192
+[2021.09.14-09.56.07:277][244]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.56.07:369][244]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.09.14-09.56.07:814][276]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.56.07:882][276]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制982FE4FF4698645DE37951B7F6D311FD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.56.07:894][276]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.56.07:894][276]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.56.08:485][346]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.56.08:491][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.56.08:491][346]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:56:08)
+[2021.09.14-09.56.08:491][346]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.56.08:495][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004278s)
+[2021.09.14-09.56.08:497][346]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.56.08:497][346]LogPlayLevel: PIE: World Init took: (0.001950s)
+[2021.09.14-09.56.08:497][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.006359s)
+[2021.09.14-09.56.08:529][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.09.14-09.56.08:531][346]LogAudio: Display: Creating Audio Device:                 Id: 141, Scope: Unique, Realtime: True
+[2021.09.14-09.56.08:531][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.56.08:531][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.56.08:531][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.56.08:531][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.56.08:531][346]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.56.08:531][346]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.56.08:531][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.56.08:531][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.56.08:532][346]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.56.08:532][346]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.56.08:536][346]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.56.08:536][346]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.56.08:549][346]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.56.08:549][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.56.08:549][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.56.08:549][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.56.08:550][346]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.56.08:550][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.56.08:550][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.56.08:564][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.56.08:564][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.56.08:564][346]LogInit: FAudioDevice initialized.
+[2021.09.14-09.56.08:564][346]LogAudio: Display: Audio Device (ID: 141) registered with world '遊戲場景'.
+[2021.09.14-09.56.08:618][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.56.08:618][346]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.56.08:620][346]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.56.08
+[2021.09.14-09.56.08:621][346]LogWorld: Bringing up level for play took: 0.002432
+[2021.09.14-09.56.08:621][346]LogOnline: OSS: Creating online subsystem instance for: :Context_193
+[2021.09.14-09.56.08:627][346]PIE: Server logged in
+[2021.09.14-09.56.08:628][346]PIE: Play in editor total start time 0.139 seconds.
+[2021.09.14-09.56.19:885][649]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.56.19:886][649]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.56.19:886][649]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.56.19:890][649]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.56.19:890][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.56.19:907][649]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.56.19:949][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.56.19:976][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.56.19:977][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.56.19:978][649]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.56.19:998][649]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.09.14-09.56.20:017][650]LogPlayLevel: Display: Destroying online subsystem :Context_193
+[2021.09.14-09.56.23:904][105]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.56.23:982][105]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.14-09.56.24:499][147]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.56.24:566][147]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制56FC8A9A4E1109A87F4D2FA03A9706D0.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.56.24:577][147]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.56.24:577][147]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.56.25:425][247]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.56.25:431][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.56.25:431][247]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:56:25)
+[2021.09.14-09.56.25:431][247]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.56.25:435][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004172s)
+[2021.09.14-09.56.25:437][247]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.56.25:437][247]LogPlayLevel: PIE: World Init took: (0.001283s)
+[2021.09.14-09.56.25:437][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005589s)
+[2021.09.14-09.56.25:468][247]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2021.09.14-09.56.25:470][247]LogAudio: Display: Creating Audio Device:                 Id: 142, Scope: Unique, Realtime: True
+[2021.09.14-09.56.25:470][247]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.56.25:470][247]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.56.25:470][247]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.56.25:470][247]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.56.25:470][247]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.56.25:470][247]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.56.25:470][247]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.56.25:470][247]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.56.25:470][247]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.56.25:470][247]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.56.25:475][247]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.56.25:475][247]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.56.25:488][247]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.56.25:488][247]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.56.25:488][247]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.56.25:488][247]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.56.25:488][247]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.56.25:488][247]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.56.25:488][247]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.56.25:503][247]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.56.25:503][247]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.56.25:503][247]LogInit: FAudioDevice initialized.
+[2021.09.14-09.56.25:503][247]LogAudio: Display: Audio Device (ID: 142) registered with world '遊戲場景'.
+[2021.09.14-09.56.25:552][247]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.56.25:552][247]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.56.25:554][247]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.56.25
+[2021.09.14-09.56.25:555][247]LogWorld: Bringing up level for play took: 0.002554
+[2021.09.14-09.56.25:555][247]LogOnline: OSS: Creating online subsystem instance for: :Context_194
+[2021.09.14-09.56.25:562][247]PIE: Server logged in
+[2021.09.14-09.56.25:563][247]PIE: Play in editor total start time 0.133 seconds.
+[2021.09.14-09.56.30:876][860]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.56.30:876][860]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.56.30:877][860]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.56.30:880][860]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.56.30:881][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.56.30:892][860]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.56.30:935][860]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.56.30:962][860]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.56.30:963][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.56.30:964][860]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.56.30:988][860]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2021.09.14-09.56.31:002][861]LogPlayLevel: Display: Destroying online subsystem :Context_194
+[2021.09.14-09.56.38:578][749]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.56.38:657][749]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.09.14-09.56.39:031][776]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.56.39:099][776]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制2F0EC65B46B4C0E28D6D33A4656B5BD5.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.56.39:111][776]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.56.39:111][776]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.56.39:686][838]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.56.39:692][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.56.39:692][838]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:56:39)
+[2021.09.14-09.56.39:692][838]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.56.39:696][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004210s)
+[2021.09.14-09.56.39:697][838]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.56.39:697][838]LogPlayLevel: PIE: World Init took: (0.001136s)
+[2021.09.14-09.56.39:697][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005470s)
+[2021.09.14-09.56.39:729][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.09.14-09.56.39:730][838]LogAudio: Display: Creating Audio Device:                 Id: 143, Scope: Unique, Realtime: True
+[2021.09.14-09.56.39:730][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.56.39:730][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.56.39:730][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.56.39:730][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.56.39:730][838]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.56.39:730][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.56.39:730][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.56.39:730][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.56.39:730][838]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.56.39:730][838]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.56.39:735][838]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.56.39:735][838]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.56.39:748][838]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.56.39:748][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.56.39:748][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.56.39:748][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.56.39:749][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.56.39:749][838]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.56.39:749][838]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.56.39:764][838]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.56.39:764][838]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.56.39:764][838]LogInit: FAudioDevice initialized.
+[2021.09.14-09.56.39:764][838]LogAudio: Display: Audio Device (ID: 143) registered with world '遊戲場景'.
+[2021.09.14-09.56.39:802][838]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.56.39:802][838]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.56.39:805][838]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.56.39
+[2021.09.14-09.56.39:805][838]LogWorld: Bringing up level for play took: 0.002508
+[2021.09.14-09.56.39:805][838]LogOnline: OSS: Creating online subsystem instance for: :Context_195
+[2021.09.14-09.56.39:811][838]PIE: Server logged in
+[2021.09.14-09.56.39:812][838]PIE: Play in editor total start time 0.122 seconds.
+[2021.09.14-09.56.46:416][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.56.46:416][599]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.56.46:417][599]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.56.46:420][599]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.56.46:420][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.56.46:430][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.56.46:472][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.56.46:499][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.56.46:499][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.56.46:500][599]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.56.46:520][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.09.14-09.56.46:533][600]LogPlayLevel: Display: Destroying online subsystem :Context_195
+[2021.09.14-09.56.53:362][403]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.56.53:455][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.09.14-09.56.54:099][459]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.56.54:167][459]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制E8D35F4741D0828FE21CDCA428A6D014.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.56.54:177][459]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.56.54:177][459]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.56.54:725][524]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.56.54:731][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.56.54:731][524]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:56:54)
+[2021.09.14-09.56.54:731][524]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.56.54:735][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004275s)
+[2021.09.14-09.56.54:736][524]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.56.54:736][524]LogPlayLevel: PIE: World Init took: (0.001106s)
+[2021.09.14-09.56.54:736][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005505s)
+[2021.09.14-09.56.54:768][524]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2021.09.14-09.56.54:769][524]LogAudio: Display: Creating Audio Device:                 Id: 144, Scope: Unique, Realtime: True
+[2021.09.14-09.56.54:769][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.56.54:769][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.56.54:769][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.56.54:769][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.56.54:769][524]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.56.54:769][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.56.54:769][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.56.54:769][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.56.54:769][524]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.56.54:769][524]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.56.54:774][524]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.56.54:774][524]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.56.54:787][524]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.56.54:787][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.56.54:787][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.56.54:787][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.56.54:787][524]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.56.54:787][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.56.54:787][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.56.54:802][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.56.54:802][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.56.54:802][524]LogInit: FAudioDevice initialized.
+[2021.09.14-09.56.54:802][524]LogAudio: Display: Audio Device (ID: 144) registered with world '遊戲場景'.
+[2021.09.14-09.56.54:852][524]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.56.54:852][524]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.56.54:855][524]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.56.54
+[2021.09.14-09.56.54:856][524]LogWorld: Bringing up level for play took: 0.002538
+[2021.09.14-09.56.54:856][524]LogOnline: OSS: Creating online subsystem instance for: :Context_196
+[2021.09.14-09.56.54:862][524]PIE: Server logged in
+[2021.09.14-09.56.54:862][524]PIE: Play in editor total start time 0.133 seconds.
+[2021.09.14-09.57.11:786][487]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.57.11:786][487]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.57.11:787][487]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.57.11:790][487]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.57.11:790][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.57.11:797][487]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.57.11:839][487]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.57.11:866][487]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.57.11:867][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.57.11:868][487]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.57.11:888][487]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2021.09.14-09.57.11:903][488]LogPlayLevel: Display: Destroying online subsystem :Context_196
+[2021.09.14-09.57.18:812][302]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.57.18:891][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2021.09.14-09.57.19:333][334]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.57.19:401][334]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制13E143074F2651DD11FB31B365FEA4E9.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.57.19:412][334]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.57.19:412][334]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.57.20:817][501]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.57.20:823][501]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.57.20:823][501]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:57:20)
+[2021.09.14-09.57.20:823][501]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.57.20:828][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004454s)
+[2021.09.14-09.57.20:829][501]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.57.20:829][501]LogPlayLevel: PIE: World Init took: (0.001264s)
+[2021.09.14-09.57.20:829][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005844s)
+[2021.09.14-09.57.20:860][501]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.09.14-09.57.20:862][501]LogAudio: Display: Creating Audio Device:                 Id: 145, Scope: Unique, Realtime: True
+[2021.09.14-09.57.20:862][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.57.20:862][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.57.20:862][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.57.20:862][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.57.20:862][501]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.57.20:862][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.57.20:862][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.57.20:862][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.57.20:862][501]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.57.20:862][501]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.57.20:868][501]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.57.20:868][501]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.57.20:881][501]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.57.20:882][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.57.20:882][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.57.20:882][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.57.20:882][501]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.57.20:882][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.57.20:882][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.57.20:883][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.57.20:883][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.57.20:883][501]LogInit: FAudioDevice initialized.
+[2021.09.14-09.57.20:883][501]LogAudio: Display: Audio Device (ID: 145) registered with world '遊戲場景'.
+[2021.09.14-09.57.20:928][501]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.57.20:928][501]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.57.20:931][501]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.57.20
+[2021.09.14-09.57.20:931][501]LogWorld: Bringing up level for play took: 0.002671
+[2021.09.14-09.57.20:932][501]LogOnline: OSS: Creating online subsystem instance for: :Context_197
+[2021.09.14-09.57.20:937][501]PIE: Server logged in
+[2021.09.14-09.57.20:938][501]PIE: Play in editor total start time 0.116 seconds.
+[2021.09.14-09.57.45:396][346]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.57.45:396][346]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.57.45:397][346]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.57.45:400][346]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.57.45:401][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.57.45:408][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.57.45:451][346]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.57.45:479][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.57.45:480][346]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.57.45:500][346]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.09.14-09.57.45:520][347]LogPlayLevel: Display: Destroying online subsystem :Context_197
+[2021.09.14-09.57.52:930][203]BlueprintLog: New page: Compile BP_玩家控制
+[2021.09.14-09.57.53:007][203]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.09.14-09.57.53:816][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BP_玩家控制" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset" SILENT=true
+[2021.09.14-09.57.53:883][280]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BP_玩家控制6408FAAE414CB71ADAA34D94A86C3EDD.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BP_玩家控制.uasset'
+[2021.09.14-09.57.53:895][280]AssetCheck: New page: Asset Save: BP_玩家控制
+[2021.09.14-09.57.53:895][280]LogContentValidation: Display: Validating Blueprint /Game/BP/BP_玩家控制.BP_玩家控制
+[2021.09.14-09.57.55:007][413]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.14-09.57.55:013][413]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.14-09.57.55:014][413]PIE: New page: PIE session: 遊戲場景 (2021年9月15日 上午1:57:55)
+[2021.09.14-09.57.55:014][413]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.57.55:018][413]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004075s)
+[2021.09.14-09.57.55:019][413]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.14-09.57.55:019][413]LogPlayLevel: PIE: World Init took: (0.001163s)
+[2021.09.14-09.57.55:019][413]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.005361s)
+[2021.09.14-09.57.55:050][413]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.09.14-09.57.55:052][413]LogAudio: Display: Creating Audio Device:                 Id: 146, Scope: Unique, Realtime: True
+[2021.09.14-09.57.55:052][413]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.14-09.57.55:052][413]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.14-09.57.55:052][413]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.14-09.57.55:052][413]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.14-09.57.55:052][413]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.14-09.57.55:052][413]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.14-09.57.55:052][413]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.14-09.57.55:052][413]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.14-09.57.55:053][413]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.14-09.57.55:053][413]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.14-09.57.55:058][413]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.14-09.57.55:058][413]LogAudioMixer: Display: 1: FrontRight
+[2021.09.14-09.57.55:072][413]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.14-09.57.55:072][413]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.14-09.57.55:072][413]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.14-09.57.55:072][413]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.14-09.57.55:072][413]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.14-09.57.55:073][413]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.14-09.57.55:073][413]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.14-09.57.55:087][413]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.14-09.57.55:087][413]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.14-09.57.55:088][413]LogInit: FAudioDevice initialized.
+[2021.09.14-09.57.55:088][413]LogAudio: Display: Audio Device (ID: 146) registered with world '遊戲場景'.
+[2021.09.14-09.57.55:136][413]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.57.55:136][413]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.14-09.57.55:139][413]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-17.57.55
+[2021.09.14-09.57.55:139][413]LogWorld: Bringing up level for play took: 0.002419
+[2021.09.14-09.57.55:139][413]LogOnline: OSS: Creating online subsystem instance for: :Context_198
+[2021.09.14-09.57.55:146][413]PIE: Server logged in
+[2021.09.14-09.57.55:147][413]PIE: Play in editor total start time 0.135 seconds.
+[2021.09.14-09.58.08:256][938]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.14-09.58.08:257][938]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.14-09.58.08:257][938]LogSlate: Window 'HW_05_HealProp Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.14-09.58.08:261][938]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.58.08:261][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.58.08:272][938]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.14-09.58.08:313][938]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-09.58.08:340][938]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.14-09.58.08:341][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.58.08:342][938]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.14-09.58.08:362][938]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2021.09.14-09.58.08:377][939]LogPlayLevel: Display: Destroying online subsystem :Context_198
+[2021.09.14-09.58.12:011][336]LogWorld: UWorld::CleanupWorld for World_58, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-09.58.12:011][336]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-10.07.29:448][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.09.14-10.20.59:294][395]LogSlate: Window 'Pick Skeleton' being destroyed
+[2021.09.14-10.20.59:305][395]LogContentBrowser: Deferred new asset file creation: NewBlendSpace
+[2021.09.14-10.20.59:322][395]LogContentBrowser: Creating deferred item: NewBlendSpace
+[2021.09.14-10.20.59:417][398]LogContentBrowser: Attempting asset rename: NewBlendSpace -> NewBlendSpace
+[2021.09.14-10.20.59:436][398]LogContentBrowser: End creating deferred item NewBlendSpace
+[2021.09.14-10.21.13:616][515]LogContentBrowser: Attempting asset rename: NewBlendSpace -> BS_怪物等待走路與
+[2021.09.14-10.21.13:708][515]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與.uasset" SILENT=true
+[2021.09.14-10.21.13:714][515]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BS_怪物等待走路與3883F6354E6A72209A1A4FAEB3D31074.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與.uasset'
+[2021.09.14-10.21.13:791][515]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.09.14-10.21.13:829][515]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2021.09.14-10.21.13:853][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.09.14-10.21.13:982][515]AssetCheck: New page: Asset Save: BS_怪物等待走路與
+[2021.09.14-10.21.13:982][515]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與.BS_怪物等待走路與
+[2021.09.14-10.21.22:030][810]LogContentBrowser: Attempting asset rename: BS_怪物等待走路與 -> BS_怪物等待走路與跑步
+[2021.09.14-10.21.22:075][810]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.09.14-10.21.22:081][810]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BS_怪物等待走路與跑步999314EF445BBEB8EB311A82296701FF.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.09.14-10.21.22:158][810]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2021.09.14-10.21.22:192][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2021.09.14-10.21.22:218][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.09.14-10.21.22:272][810]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.09.14-10.21.22:272][810]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.09.14-10.21.23:717][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.09.14-10.21.23:718][937]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BS_怪物等待走路與跑步C3F8FAF44A1A95BA3DAD90B2E51B2512.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.09.14-10.21.23:727][937]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.09.14-10.21.23:727][937]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.09.14-10.21.25:136][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2021.09.14-10.21.31:900][459]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.09.14-10.21.31:982][459]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_59:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.09.14-10.21.32:634][459]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.09.14-10.22.07:976][889]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.09.14-10.22.07:982][889]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BS_怪物等待走路與跑步A390580E4A62D01BAF19749BF3E8412C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.09.14-10.22.07:994][889]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.09.14-10.22.07:994][889]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.09.14-10.23.12:078][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.09.14-10.23.12:085][483]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BS_怪物等待走路與跑步614DF1DD4C795FC0572D9186A94DA539.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.09.14-10.23.12:098][483]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.09.14-10.23.12:098][483]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.09.14-10.25.20:343][205]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.09.14-10.25.20:456][205]LogUObjectHash: Compacting FUObjectHashTables data took   4.96ms
+[2021.09.14-10.25.21:262][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-10.25.21:277][287]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫856DDD0D498F80CF8BC7BDAE728DF115.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-10.25.21:290][287]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-10.25.21:290][287]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-10.26.12:988][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BS_怪物等待走路與跑步" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset" SILENT=true
+[2021.09.14-10.26.12:991][297]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BS_怪物等待走路與跑步1005C5C74B27986C0136DE9ECB5BBB35.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BS_怪物等待走路與跑步.uasset'
+[2021.09.14-10.26.13:003][297]AssetCheck: New page: Asset Save: BS_怪物等待走路與跑步
+[2021.09.14-10.26.13:003][297]LogContentValidation: Display: Validating BlendSpace /Game/BP/BS_怪物等待走路與跑步.BS_怪物等待走路與跑步
+[2021.09.14-10.26.16:305][674]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-10.26.16:315][674]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫9441594C4FDCDC4F46DCE1BF01A9DA28.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-10.26.16:333][674]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-10.26.16:333][674]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-10.35.48:102][173]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.09.14-10.35.48:148][173]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:149][173]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:188][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2021.09.14-10.35.48:207][173]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:242][174]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:275][175]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:283][176]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:291][177]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:300][178]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:308][179]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:316][180]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:325][181]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:333][182]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:341][183]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:350][184]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:358][185]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.48:366][186]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_3
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:005E
+[2021.09.14-10.35.53:188][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-10.35.53:206][732]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫A37DCC0A45E7B4E8869DE290CC3BC10A.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-10.35.53:219][732]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-10.35.53:219][732]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-10.36.05:687][477]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.09.14-10.36.05:707][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.05:707][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.05:707][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.09.14-10.36.05:708][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.05:708][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.05:708][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.09.14-10.36.05:744][477]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2021.09.14-10.36.05:753][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.05:753][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.05:753][477]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.09.14-10.36.05:793][478]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.05:793][478]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.05:793][478]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.09.14-10.36.05:826][479]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.05:826][479]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.05:826][479]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0102
+[2021.09.14-10.36.05:834][480]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_4
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.06:455][551]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-10.36.06:473][551]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫3D0A6F3F4C5DB8300FA112B392FAA9F2.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-10.36.06:486][551]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-10.36.06:486][551]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-10.36.49:603][728]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.09.14-10.36.49:626][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.49:626][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.49:626][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.36.49:626][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.49:626][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.49:626][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.36.49:661][728]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.09.14-10.36.49:675][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.49:675][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.49:675][728]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.36.49:710][729]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.49:710][729]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.49:710][729]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.36.49:744][730]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.49:744][730]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.36.49:744][730]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.36.49:752][731]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_5
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.36.50:207][781]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-10.36.50:225][781]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫2980AC50452314696FAB8DB9E75855ED.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-10.36.50:237][781]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-10.36.50:237][781]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
+[2021.09.14-10.38.15:860][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2021.09.14-10.38.15:863][ 69]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.046
+[2021.09.14-10.38.15:864][ 69]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/BA_怪物動畫] ([1] browsable assets)...
+[2021.09.14-10.38.15:873][ 69]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫]
+[2021.09.14-10.38.15:873][ 69]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/BA_怪物動畫]
+[2021.09.14-10.38.15:873][ 69]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/BP/BA_怪物動畫_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2021.09.14-10.38.15:893][ 69]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫_Auto861140DF94ECC924C583D138491A774E8.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/BP/BA_怪物動畫_Auto8.uasset'
+[2021.09.14-10.38.15:894][ 69]LogFileHelpers: Auto-saving content packages took 0.030
+[2021.09.14-10.40.48:573][756]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.09.14-10.40.48:577][756]LogBlueprint: Warning: [AssetLog] C:\Users\Aito\Documents\GitHub\Unreal_HW_05_HealProp\HW_05_HealProp\Content\BP\BA_怪物動畫.uasset: [Compiler] 等待，走路與跑步 to 攻擊  will never be taken, please connect something to  Can Enter Transition
+[2021.09.14-10.40.48:577][756]LogBlueprint: Warning: [AssetLog] C:\Users\Aito\Documents\GitHub\Unreal_HW_05_HealProp\HW_05_HealProp\Content\BP\BA_怪物動畫.uasset: [Compiler] 攻擊 to 等待，走路與跑步  will never be taken, please connect something to  Can Enter Transition
+[2021.09.14-10.40.48:597][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.40.48:597][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.40.48:597][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.40.48:597][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.40.48:597][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.40.48:597][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.40.48:633][756]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.09.14-10.40.48:646][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.40.48:646][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.40.48:646][756]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.40.48:677][757]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.40.48:677][757]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.40.48:677][757]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.40.48:719][758]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.40.48:719][758]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.40.48:719][758]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.40.48:727][759]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_6
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.41.32:773][760]BlueprintLog: New page: Compile BA_怪物動畫
+[2021.09.14-10.41.32:796][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.41.32:796][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.41.32:796][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_50:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.41.32:796][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.41.32:796][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.41.32:796][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.41.32:832][760]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.09.14-10.41.32:844][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.41.32:844][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.41.32:844][760]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.41.32:873][761]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.41.32:873][761]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.41.32:873][761]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.41.32:912][762]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.41.32:912][762]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:00D0
+[2021.09.14-10.41.32:912][762]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0106
+[2021.09.14-10.41.32:919][763]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_怪物動畫_C /Engine/Transient.World_52:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.BA_怪物動畫_C_7
+	Function /Game/BP/BA_怪物動畫.BA_怪物動畫_C:ExecuteUbergraph_BA_怪物動畫:0040
+[2021.09.14-10.41.33:476][826]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/BA_怪物動畫" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset" SILENT=true
+[2021.09.14-10.41.33:501][826]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/BA_怪物動畫C126DE1548A31FD85B7ADCB22463A2F2.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/BP/BA_怪物動畫.uasset'
+[2021.09.14-10.41.33:516][826]AssetCheck: New page: Asset Save: BA_怪物動畫
+[2021.09.14-10.41.33:516][826]LogContentValidation: Display: Validating AnimBlueprint /Game/BP/BA_怪物動畫.BA_怪物動畫
