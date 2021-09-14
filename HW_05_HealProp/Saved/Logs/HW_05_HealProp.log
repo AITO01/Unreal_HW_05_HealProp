@@ -802,3 +802,481 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.13-19.17.19:351][663]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.13-19.17.19:351][663]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/射擊場地_BuiltData.射擊場地_BuiltData
 [2021.09.13-19.17.19:351][663]LogContentValidation: Display: Validating World /Game/地圖/射擊場地.射擊場地
+[2021.09.13-19.18.37:100][405]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:0239
+[2021.09.13-19.18.37:100][405]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02C9
+[2021.09.13-19.18.37:100][405]LogScript: Warning: Accessed None trying to read property CallFunc_TryGetPawnOwner_ReturnValue
+	BA_玩家動畫_C /Engine/Transient.World_1:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.BA_玩家動畫_C_0
+	Function /Game/BP/BA_玩家動畫.BA_玩家動畫_C:ExecuteUbergraph_BA_玩家動畫:02FB
+[2021.09.13-19.18.40:389][766]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.13-19.18.40:400][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.13-19.18.40:407][766]PIE: New page: PIE session: 射擊場地 (2021年9月14日 上午11:18:40)
+[2021.09.13-19.18.40:413][766]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.13-19.18.40:420][766]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.13-19.18.40:420][766]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-19.18.40:432][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011986s)
+[2021.09.13-19.18.40:433][766]LogAIModule: Creating AISystem for world 射擊場地
+[2021.09.13-19.18.40:433][766]LogPlayLevel: PIE: World Init took: (0.001301s)
+[2021.09.13-19.18.40:434][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/射擊場地.射擊場地 to /Game/地圖/UEDPIE_0_射擊場地.射擊場地 (0.013438s)
+[2021.09.13-19.18.40:455][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2021.09.13-19.18.40:456][766]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.13-19.18.40:457][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.13-19.18.40:457][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.13-19.18.40:457][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.13-19.18.40:457][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.13-19.18.40:457][766]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.13-19.18.40:457][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.13-19.18.40:457][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.13-19.18.40:457][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.13-19.18.40:457][766]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.13-19.18.40:457][766]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.13-19.18.40:462][766]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.13-19.18.40:462][766]LogAudioMixer: Display: 1: FrontRight
+[2021.09.13-19.18.40:474][766]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.13-19.18.40:474][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.13-19.18.40:474][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.13-19.18.40:474][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.13-19.18.40:475][766]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.13-19.18.40:475][766]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.13-19.18.40:475][766]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.13-19.18.40:490][766]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.13-19.18.40:490][766]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.13-19.18.40:490][766]LogInit: FAudioDevice initialized.
+[2021.09.13-19.18.40:490][766]LogAudio: Display: Audio Device (ID: 2) registered with world '射擊場地'.
+[2021.09.13-19.18.40:505][766]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.13-19.18.40:522][766]LogWorld: Bringing World /Game/地圖/UEDPIE_0_射擊場地.射擊場地 up for play (max tick rate 0) at 2021.09.14-03.18.40
+[2021.09.13-19.18.40:523][766]LogWorld: Bringing up level for play took: 0.001042
+[2021.09.13-19.18.40:523][766]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.09.13-19.18.40:580][766]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 20 classes and 0 folders.
+[2021.09.13-19.18.40:623][766]PIE: Server logged in
+[2021.09.13-19.18.40:624][766]PIE: Play in editor total start time 0.226 seconds.
+[2021.09.13-19.18.54:597][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-19.18.54:597][416]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_射擊場地
+[2021.09.13-19.18.54:597][416]LogWorld: UWorld::CleanupWorld for 射擊場地, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-19.18.54:607][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-19.18.54:627][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.13-19.18.54:631][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-19.18.54:651][416]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.13-19.18.54:652][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-19.18.54:654][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-19.18.54:689][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-19.18.54:692][416]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2021.09.13-19.18.54:723][417]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.09.13-19.19.01:005][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.13-19.19.01:339][147]LogAssetEditorSubsystem: Opening Asset editor for World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.13-19.19.01:351][147]Cmd: MAP LOAD FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.13-19.19.01:351][147]LightingResults: New page: Lighting Build
+[2021.09.13-19.19.01:351][147]LoadErrors: New page: Loading map: 遊戲場景.umap
+[2021.09.13-19.19.01:393][147]LogWorld: UWorld::CleanupWorld for 射擊場地, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-19.19.01:399][147]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-19.19.01:400][147]MapCheck: New page: Map Check
+[2021.09.13-19.19.01:400][147]LightingResults: New page: Lighting Build
+[2021.09.13-19.19.01:405][147]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.13-19.19.01:413][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.09.13-19.19.01:422][147]LogAudio: Display: Audio Device (ID: 1) registered with world '遊戲場景'.
+[2021.09.13-19.19.01:430][147]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.13-19.19.01:430][147]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.13-19.19.01:437][147]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.09.13-19.19.01:446][147]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.13-19.19.01:446][147]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.122ms to complete.
+[2021.09.13-19.19.01:446][147]LogFileHelpers: Loading map '遊戲場景' took 0.095
+[2021.09.13-19.19.02:585][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CanneryLockerRoom_Ceiling)
+[2021.09.13-19.19.04:590][486]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.13-19.19.04:596][486]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.13-19.19.04:596][486]PIE: New page: PIE session: 遊戲場景 (2021年9月14日 上午11:19:04)
+[2021.09.13-19.19.04:642][486]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.13-19.19.04:645][486]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003266s)
+[2021.09.13-19.19.04:646][486]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.13-19.19.04:647][486]LogPlayLevel: PIE: World Init took: (0.001365s)
+[2021.09.13-19.19.04:647][486]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.004793s)
+[2021.09.13-19.19.04:653][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2021.09.13-19.19.04:654][486]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.13-19.19.04:654][486]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.13-19.19.04:654][486]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.13-19.19.04:654][486]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.13-19.19.04:654][486]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.13-19.19.04:654][486]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.13-19.19.04:654][486]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.13-19.19.04:655][486]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.13-19.19.04:655][486]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.13-19.19.04:655][486]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.13-19.19.04:655][486]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.13-19.19.04:659][486]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.13-19.19.04:659][486]LogAudioMixer: Display: 1: FrontRight
+[2021.09.13-19.19.04:675][486]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.13-19.19.04:676][486]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.13-19.19.04:676][486]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.13-19.19.04:676][486]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.13-19.19.04:676][486]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.13-19.19.04:676][486]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.13-19.19.04:676][486]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.13-19.19.04:687][486]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.13-19.19.04:688][486]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.13-19.19.04:688][486]LogInit: FAudioDevice initialized.
+[2021.09.13-19.19.04:688][486]LogAudio: Display: Audio Device (ID: 3) registered with world '遊戲場景'.
+[2021.09.13-19.19.04:698][486]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.13-19.19.04:700][486]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-03.19.04
+[2021.09.13-19.19.04:700][486]LogWorld: Bringing up level for play took: 0.001292
+[2021.09.13-19.19.04:700][486]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.09.13-19.19.04:705][486]PIE: Server logged in
+[2021.09.13-19.19.04:705][486]PIE: Play in editor total start time 0.111 seconds.
+[2021.09.13-19.20.14:964][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-19.20.14:965][907]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.13-19.20.14:965][907]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-19.20.14:966][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-19.20.14:979][907]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.13-19.20.15:026][907]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-19.20.15:034][907]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-19.20.15:035][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-19.20.15:036][907]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-19.20.15:065][907]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2021.09.13-19.20.15:125][908]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.13-19.20.17:891][228]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.13-19.20.17:897][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.13-19.20.17:897][228]PIE: New page: PIE session: 遊戲場景 (2021年9月14日 上午11:20:17)
+[2021.09.13-19.20.17:921][228]LogPlayLevel: Creating play world package: /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.13-19.20.17:925][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003123s)
+[2021.09.13-19.20.17:925][228]LogAIModule: Creating AISystem for world 遊戲場景
+[2021.09.13-19.20.17:926][228]LogPlayLevel: PIE: World Init took: (0.001154s)
+[2021.09.13-19.20.17:926][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/地圖/遊戲場景.遊戲場景 to /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 (0.004428s)
+[2021.09.13-19.20.17:932][228]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.13-19.20.17:934][228]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.13-19.20.17:934][228]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.13-19.20.17:934][228]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.13-19.20.17:934][228]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.13-19.20.17:934][228]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.13-19.20.17:934][228]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.13-19.20.17:934][228]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.13-19.20.17:934][228]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.13-19.20.17:934][228]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.13-19.20.17:934][228]LogAudio: Display: Using built-in audio occlusion.
+[2021.09.13-19.20.17:934][228]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.13-19.20.17:939][228]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.13-19.20.17:939][228]LogAudioMixer: Display: 1: FrontRight
+[2021.09.13-19.20.17:951][228]LogAudioMixer: Display: Using Audio Device 喇叭 (2- High Definition Audio 裝置)
+[2021.09.13-19.20.17:951][228]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.13-19.20.17:951][228]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.13-19.20.17:951][228]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.13-19.20.17:952][228]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.13-19.20.17:952][228]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.13-19.20.17:952][228]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.13-19.20.17:966][228]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.13-19.20.17:966][228]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.13-19.20.17:966][228]LogInit: FAudioDevice initialized.
+[2021.09.13-19.20.17:966][228]LogAudio: Display: Audio Device (ID: 4) registered with world '遊戲場景'.
+[2021.09.13-19.20.17:972][228]LogLoad: Game class is 'BP_遊戲模式_C'
+[2021.09.13-19.20.17:975][228]LogWorld: Bringing World /Game/地圖/UEDPIE_0_遊戲場景.遊戲場景 up for play (max tick rate 0) at 2021.09.14-03.20.17
+[2021.09.13-19.20.17:975][228]LogWorld: Bringing up level for play took: 0.001286
+[2021.09.13-19.20.17:975][228]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.09.13-19.20.17:978][228]PIE: Server logged in
+[2021.09.13-19.20.17:979][228]PIE: Play in editor total start time 0.083 seconds.
+[2021.09.13-19.20.20:743][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-19.20.20:743][553]LogWorld: BeginTearingDown for /Game/地圖/UEDPIE_0_遊戲場景
+[2021.09.13-19.20.20:744][553]LogWorld: UWorld::CleanupWorld for 遊戲場景, bSessionEnded=true, bCleanupResources=true
+[2021.09.13-19.20.20:744][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-19.20.20:751][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.13-19.20.20:766][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.13-19.20.20:771][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.13-19.20.20:772][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-19.20.20:773][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.13-19.20.20:791][553]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2021.09.13-19.20.20:820][554]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.09.13-19.20.23:442][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.13-19.20.23:448][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.09.13-19.20.23:463][860]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景48FCB5754E083B60AED2FDB87AF42DDE.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.13-19.20.23:476][860]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.13-19.20.23:614][860]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltData26C0DC3B4FA2A21295BD99B6671C675E.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.13-19.20.23:623][860]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.13-19.20.23:623][860]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.13-19.20.23:623][860]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.13-19.20.24:938][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-01.02.18:063][539]LogUObjectHash: Compacting FUObjectHashTables data took   9.51ms
+[2021.09.14-01.02.20:392][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-01.02.20:443][715]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.14-01.02.20:547][715]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景9212FC1C47196A0C5A2F1595BE248D59.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.14-01.02.20:616][715]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-01.02.20:757][715]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltData7BA0692E4DFDDB08A14BFE908DD50423.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-01.02.22:635][715]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-01.02.22:636][715]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-01.02.22:656][715]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-03.27.08:431][936]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.14-03.27.08:443][936]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.14-03.27.15:349][735]LogContentBrowser: Attempting asset rename: NewFolder -> 子彈箱
+[2021.09.14-03.27.15:350][735]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.14-03.27.47:296][147]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\source\005_AmmunitionBox_FinalRenderTest.fbx)
+[2021.09.14-03.27.47:415][147]LogFbx: Loading FBX Scene from D:\朝陽尖兵\第5章-Unreal\Ammunition Box\source\005_AmmunitionBox_FinalRenderTest.fbx
+[2021.09.14-03.27.47:460][147]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-03.27.52:060][147]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.14-03.27.52:231][147]LogFbx: Display: Triangulating static mesh BoxBase_low
+[2021.09.14-03.27.52:425][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_BoxBase_low...
+[2021.09.14-03.27.52:480][147]LogStaticMesh: Built static mesh [0.09s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low.005_AmmunitionBox_FinalRenderTest_BoxBase_low
+[2021.09.14-03.27.52:619][147]LogFbx: Display: Triangulating static mesh BoxLid_low
+[2021.09.14-03.27.52:638][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_BoxLid_low...
+[2021.09.14-03.27.52:646][147]LogStaticMesh: Built static mesh [0.01s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low.005_AmmunitionBox_FinalRenderTest_BoxLid_low
+[2021.09.14-03.27.52:654][147]LogFbx: Display: Triangulating static mesh BCase_low
+[2021.09.14-03.27.52:658][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_BCase_low...
+[2021.09.14-03.27.52:662][147]LogStaticMesh: Built static mesh [0.00s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BCase_low.005_AmmunitionBox_FinalRenderTest_BCase_low
+[2021.09.14-03.27.52:667][147]LogFbx: Display: Triangulating static mesh Bullet_low.004
+[2021.09.14-03.27.52:798][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_Bullet_low_004...
+[2021.09.14-03.27.52:824][147]LogStaticMesh: Built static mesh [0.03s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_004.005_AmmunitionBox_FinalRenderTest_Bullet_low_004
+[2021.09.14-03.27.52:835][147]LogFbx: Display: Triangulating static mesh Bullet_low.005
+[2021.09.14-03.27.52:879][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_Bullet_low_005...
+[2021.09.14-03.27.52:889][147]LogStaticMesh: Built static mesh [0.01s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_005.005_AmmunitionBox_FinalRenderTest_Bullet_low_005
+[2021.09.14-03.27.52:895][147]LogFbx: Display: Triangulating static mesh Bullet_low.006
+[2021.09.14-03.27.52:904][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_Bullet_low_006...
+[2021.09.14-03.27.52:907][147]LogStaticMesh: Built static mesh [0.00s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_006.005_AmmunitionBox_FinalRenderTest_Bullet_low_006
+[2021.09.14-03.27.52:913][147]LogFbx: Display: Triangulating static mesh Bullet_low.007
+[2021.09.14-03.27.52:921][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_Bullet_low_007...
+[2021.09.14-03.27.52:924][147]LogStaticMesh: Built static mesh [0.00s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_007.005_AmmunitionBox_FinalRenderTest_Bullet_low_007
+[2021.09.14-03.27.52:929][147]LogFbx: Display: Triangulating static mesh Bullet_low.009
+[2021.09.14-03.27.53:084][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_Bullet_low_009...
+[2021.09.14-03.27.53:111][147]LogStaticMesh: Built static mesh [0.03s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_009.005_AmmunitionBox_FinalRenderTest_Bullet_low_009
+[2021.09.14-03.27.53:122][147]LogFbx: Display: Triangulating static mesh Bullet_low.008
+[2021.09.14-03.27.53:255][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_Bullet_low_008...
+[2021.09.14-03.27.53:284][147]LogStaticMesh: Built static mesh [0.03s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_008.005_AmmunitionBox_FinalRenderTest_Bullet_low_008
+[2021.09.14-03.27.53:296][147]LogFbx: Display: Triangulating static mesh BoxBase_low.001
+[2021.09.14-03.27.53:328][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_BoxBase_low_001...
+[2021.09.14-03.27.53:337][147]LogStaticMesh: Built static mesh [0.01s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_001.005_AmmunitionBox_FinalRenderTest_BoxBase_low_001
+[2021.09.14-03.27.53:344][147]LogFbx: Display: Triangulating static mesh BoxLid_low.001
+[2021.09.14-03.27.53:368][147]LogStaticMesh: Building static mesh 005_AmmunitionBox_FinalRenderTest_BoxLid_low_001...
+[2021.09.14-03.27.53:376][147]LogStaticMesh: Built static mesh [0.01s] /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001.005_AmmunitionBox_FinalRenderTest_BoxLid_low_001
+[2021.09.14-03.27.53:444][147]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-03.27.53:854][147]LogSlate: Took 0.062954 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.14-03.27.57:305][498]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-03.27.57:308][498]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-03.28.23:649][887]LogUObjectHash: Compacting FUObjectHashTables data took  15.18ms
+[2021.09.14-03.28.23:656][887]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/地圖/遊戲場景' took 0.067
+[2021.09.14-03.28.23:663][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001] ([1] browsable assets)...
+[2021.09.14-03.28.23:684][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001.005_AmmunitionBox_FinalRenderTest_BoxLid_low_001]
+[2021.09.14-03.28.23:684][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001]
+[2021.09.14-03.28.23:767][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes7E841CB743EF2BC005062FA03B76E1CE.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001_Auto1.uasset'
+[2021.09.14-03.28.23:768][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low] ([1] browsable assets)...
+[2021.09.14-03.28.23:778][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low.005_AmmunitionBox_FinalRenderTest_BoxBase_low]
+[2021.09.14-03.28.23:778][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low]
+[2021.09.14-03.28.23:787][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTesB19FA5374FED21472BE1A5916F6FB79A.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_Auto1.uasset'
+[2021.09.14-03.28.23:788][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low] ([1] browsable assets)...
+[2021.09.14-03.28.23:801][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low.005_AmmunitionBox_FinalRenderTest_BoxLid_low]
+[2021.09.14-03.28.23:801][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low]
+[2021.09.14-03.28.23:808][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTesA739D22A442FCA742FE6D2BA7E3EAF25.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_Auto1.uasset'
+[2021.09.14-03.28.23:810][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BCase_low] ([1] browsable assets)...
+[2021.09.14-03.28.23:820][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BCase_low.005_AmmunitionBox_FinalRenderTest_BCase_low]
+[2021.09.14-03.28.23:820][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BCase_low]
+[2021.09.14-03.28.23:828][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes2A0E489A42A8480E199D8D855B6A4744.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BCase_low_Auto1.uasset'
+[2021.09.14-03.28.23:829][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_004] ([1] browsable assets)...
+[2021.09.14-03.28.23:840][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_004.005_AmmunitionBox_FinalRenderTest_Bullet_low_004]
+[2021.09.14-03.28.23:840][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_004]
+[2021.09.14-03.28.23:850][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes4C66B72847BB01A6AFB7E5841EAFB05D.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_004_Auto1.uasset'
+[2021.09.14-03.28.23:851][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_005] ([1] browsable assets)...
+[2021.09.14-03.28.23:862][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_005.005_AmmunitionBox_FinalRenderTest_Bullet_low_005]
+[2021.09.14-03.28.23:862][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_005]
+[2021.09.14-03.28.23:872][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTesF673B82143617EE2ED73719065B8496F.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_005_Auto1.uasset'
+[2021.09.14-03.28.23:873][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_006] ([1] browsable assets)...
+[2021.09.14-03.28.23:882][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_006.005_AmmunitionBox_FinalRenderTest_Bullet_low_006]
+[2021.09.14-03.28.23:882][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_006]
+[2021.09.14-03.28.23:890][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes855CD58E48679C82C01BBB94C383CC71.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_006_Auto1.uasset'
+[2021.09.14-03.28.23:891][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_007] ([1] browsable assets)...
+[2021.09.14-03.28.23:907][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_007.005_AmmunitionBox_FinalRenderTest_Bullet_low_007]
+[2021.09.14-03.28.23:907][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_007]
+[2021.09.14-03.28.23:913][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes30521D124AD7A0836621F6B4A96F53CC.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_007_Auto1.uasset'
+[2021.09.14-03.28.23:915][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_009] ([1] browsable assets)...
+[2021.09.14-03.28.23:925][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_009.005_AmmunitionBox_FinalRenderTest_Bullet_low_009]
+[2021.09.14-03.28.23:925][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_009]
+[2021.09.14-03.28.23:937][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes250BF5D947367BC1D1634D923063D3F7.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_009_Auto1.uasset'
+[2021.09.14-03.28.23:938][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_008] ([1] browsable assets)...
+[2021.09.14-03.28.23:948][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_008.005_AmmunitionBox_FinalRenderTest_Bullet_low_008]
+[2021.09.14-03.28.23:948][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_008]
+[2021.09.14-03.28.23:962][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTesAD5CC2ED470EA39B3B9FBA8B4A678D40.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_008_Auto1.uasset'
+[2021.09.14-03.28.23:964][887]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_001] ([1] browsable assets)...
+[2021.09.14-03.28.23:975][887]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_001.005_AmmunitionBox_FinalRenderTest_BoxBase_low_001]
+[2021.09.14-03.28.23:975][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_001]
+[2021.09.14-03.28.23:984][887]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTesD1CDE79545595B50773130AC58202514.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Autosaves/Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_001_Auto1.uasset'
+[2021.09.14-03.28.23:985][887]LogFileHelpers: Auto-saving content packages took 0.329
+[2021.09.14-03.28.40:993][ 52]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe.png)
+[2021.09.14-03.28.41:216][ 52]LogTexture: Display: Building textures: 006_AmmunitionBox_FinalRenderLow_AmmoBoxTe (BC5, 2048X2048)
+[2021.09.14-03.28.41:694][ 52]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_1.png)
+[2021.09.14-03.28.41:706][ 52]LogTexture: Display: Building textures: 006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_1 (AutoDXT, 2048X2048)
+[2021.09.14-03.28.41:939][ 52]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_2.png)
+[2021.09.14-03.28.42:032][ 52]LogTexture: Display: Building textures: 006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_2 (AutoDXT, 2048X2048)
+[2021.09.14-03.28.42:539][ 52]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_3.png)
+[2021.09.14-03.28.42:558][ 52]LogTexture: Display: Building textures: 006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_3 (AutoDXT, 2048X2048)
+[2021.09.14-03.29.41:793][ 15]LogSlate: Took 0.030318 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.14-03.29.57:548][316]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001.005_AmmunitionBox_FinalRenderTest_BoxLid_low_001
+[2021.09.14-03.30.00:697][316]LogRenderer: Reallocating scene render targets to support 1432x920 Format 10 NumSamples 1 (Frame:1).
+[2021.09.14-03.30.00:697][316]LogSlate: Took 0.021807 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.14-03.30.08:177][940]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxLid_low_001' being destroyed
+[2021.09.14-03.30.08:186][940]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxLid_low_001' being destroyed
+[2021.09.14-03.30.08:206][940]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.08:252][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.09:429][  4]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_004.005_AmmunitionBox_FinalRenderTest_Bullet_low_004
+[2021.09.14-03.30.13:319][295]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_004' being destroyed
+[2021.09.14-03.30.13:327][295]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_004' being destroyed
+[2021.09.14-03.30.13:331][295]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.13:331][295]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.14:179][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2021.09.14-03.30.15:084][349]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.30.15:244][349]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2021.09.14-03.30.16:038][405]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_005.005_AmmunitionBox_FinalRenderTest_Bullet_low_005
+[2021.09.14-03.30.17:570][504]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_005' being destroyed
+[2021.09.14-03.30.17:591][504]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_005' being destroyed
+[2021.09.14-03.30.17:595][504]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.17:595][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.18:050][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.14-03.30.19:197][546]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.30.19:276][546]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.09.14-03.30.19:799][578]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_006.005_AmmunitionBox_FinalRenderTest_Bullet_low_006
+[2021.09.14-03.30.20:971][639]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_006' being destroyed
+[2021.09.14-03.30.20:985][639]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_006' being destroyed
+[2021.09.14-03.30.20:989][639]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.20:989][639]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.21:982][716]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_007.005_AmmunitionBox_FinalRenderTest_Bullet_low_007
+[2021.09.14-03.30.22:977][767]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_007' being destroyed
+[2021.09.14-03.30.22:984][767]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_007' being destroyed
+[2021.09.14-03.30.22:988][767]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.22:988][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.24:009][834]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_008.005_AmmunitionBox_FinalRenderTest_Bullet_low_008
+[2021.09.14-03.30.25:040][883]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_008' being destroyed
+[2021.09.14-03.30.25:063][883]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_008' being destroyed
+[2021.09.14-03.30.25:068][883]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.25:068][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.26:030][951]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_008.005_AmmunitionBox_FinalRenderTest_Bullet_low_008
+[2021.09.14-03.30.26:886][987]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_008' being destroyed
+[2021.09.14-03.30.26:891][987]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_008' being destroyed
+[2021.09.14-03.30.26:895][987]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.26:895][987]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.27:806][ 43]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_Bullet_low_009.005_AmmunitionBox_FinalRenderTest_Bullet_low_009
+[2021.09.14-03.30.28:867][101]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_009' being destroyed
+[2021.09.14-03.30.28:878][101]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_Bullet_low_009' being destroyed
+[2021.09.14-03.30.28:881][101]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.28:881][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.31:470][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.14-03.30.32:525][306]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.30.32:591][306]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2021.09.14-03.30.33:515][372]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BCase_low.005_AmmunitionBox_FinalRenderTest_BCase_low
+[2021.09.14-03.30.38:448][765]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BCase_low' being destroyed
+[2021.09.14-03.30.38:458][765]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BCase_low' being destroyed
+[2021.09.14-03.30.38:462][765]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.38:462][765]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.39:465][836]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low.005_AmmunitionBox_FinalRenderTest_BoxBase_low
+[2021.09.14-03.30.43:450][151]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxBase_low' being destroyed
+[2021.09.14-03.30.43:459][151]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxBase_low' being destroyed
+[2021.09.14-03.30.43:463][151]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.43:463][151]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.44:697][248]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_001.005_AmmunitionBox_FinalRenderTest_BoxBase_low_001
+[2021.09.14-03.30.50:266][689]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxBase_low_001' being destroyed
+[2021.09.14-03.30.50:280][689]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxBase_low_001' being destroyed
+[2021.09.14-03.30.50:284][689]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.50:284][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.30.51:611][786]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low.005_AmmunitionBox_FinalRenderTest_BoxLid_low
+[2021.09.14-03.30.53:071][880]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxLid_low' being destroyed
+[2021.09.14-03.30.53:087][880]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxLid_low' being destroyed
+[2021.09.14-03.30.53:090][880]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.30.53:090][880]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.31.03:229][220]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001.005_AmmunitionBox_FinalRenderTest_BoxLid_low_001
+[2021.09.14-03.31.05:478][379]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxLid_low_001' being destroyed
+[2021.09.14-03.31.05:485][379]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxLid_low_001' being destroyed
+[2021.09.14-03.31.05:489][379]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.31.05:489][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.31.08:232][603]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low.005_AmmunitionBox_FinalRenderTest_BoxBase_low
+[2021.09.14-03.31.09:776][694]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxBase_low' being destroyed
+[2021.09.14-03.31.09:796][694]LogSlate: Window '005_AmmunitionBox_FinalRenderTest_BoxBase_low' being destroyed
+[2021.09.14-03.31.09:799][694]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.09.14-03.31.09:799][694]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.14-03.31.15:600][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.09.14-03.31.17:283][120]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-03.31.17:332][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTesFF4879574930846F0408F8B4E81B028C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/005_AmmunitionBox_FinalRenderTest_BCase_low.uasset'
+[2021.09.14-03.31.17:338][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes3B76A49741B2CB6348BF6785762A3308.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low.uasset'
+[2021.09.14-03.31.17:344][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes65D36E59481C19CEBE2FE2971DDF04D6.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_001.uasset'
+[2021.09.14-03.31.17:351][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes1493A15A452E4C3081B7049DE6360759.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low.uasset'
+[2021.09.14-03.31.17:356][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/005_AmmunitionBox_FinalRenderTes84DAEBD64242FB711980F084A05BE546.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001.uasset'
+[2021.09.14-03.31.17:686][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/006_AmmunitionBox_FinalRenderLow657FBC4B448125EBB2A064A1D0725BA9.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe.uasset'
+[2021.09.14-03.31.17:710][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/006_AmmunitionBox_FinalRenderLow4CFDCA734204C9575E67D58AC4674CDC.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_1.uasset'
+[2021.09.14-03.31.17:826][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/006_AmmunitionBox_FinalRenderLow07849B334BA9B2235DB6AE807CB9F7B5.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_2.uasset'
+[2021.09.14-03.31.17:869][120]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/006_AmmunitionBox_FinalRenderLow8496BD3246F3F887DEC81EAD1990DB3F.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_3.uasset'
+[2021.09.14-03.31.17:900][120]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-03.31.17:900][120]LogContentValidation: Display: Validating StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low_001.005_AmmunitionBox_FinalRenderTest_BoxLid_low_001
+[2021.09.14-03.31.17:900][120]LogContentValidation: Display: Validating StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low_001.005_AmmunitionBox_FinalRenderTest_BoxBase_low_001
+[2021.09.14-03.31.17:900][120]LogContentValidation: Display: Validating Texture2D /Game/子彈箱/textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_3.006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_3
+[2021.09.14-03.31.17:900][120]LogContentValidation: Display: Validating Texture2D /Game/子彈箱/textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_2.006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_2
+[2021.09.14-03.31.17:900][120]LogContentValidation: Display: Validating StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BCase_low.005_AmmunitionBox_FinalRenderTest_BCase_low
+[2021.09.14-03.31.17:900][120]LogContentValidation: Display: Validating Texture2D /Game/子彈箱/textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_1.006_AmmunitionBox_FinalRenderLow_AmmoBoxTe_1
+[2021.09.14-03.31.17:900][120]LogContentValidation: Display: Validating StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxLid_low.005_AmmunitionBox_FinalRenderTest_BoxLid_low
+[2021.09.14-03.31.17:900][120]LogContentValidation: Display: Validating StaticMesh /Game/子彈箱/005_AmmunitionBox_FinalRenderTest_BoxBase_low.005_AmmunitionBox_FinalRenderTest_BoxBase_low
+[2021.09.14-03.31.17:901][120]LogContentValidation: Display: Validating Texture2D /Game/子彈箱/textures/006_AmmunitionBox_FinalRenderLow_AmmoBoxTe.006_AmmunitionBox_FinalRenderLow_AmmoBoxTe
+[2021.09.14-03.31.20:298][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-03.31.20:304][309]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.09.14-03.31.20:331][309]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景C711F7694886CF029E19C6B3762111B7.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.14-03.31.20:343][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-03.31.20:474][309]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltDataF86F76D142D63E41DB21F9A1E499E91C.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-03.31.20:487][309]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-03.31.20:487][309]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-03.31.20:487][309]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-03.31.47:615][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.09.14-03.31.49:351][263]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.31.51:136][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.14-03.31.51:969][394]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.31.52:131][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.09.14-03.31.52:138][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.14-03.31.52:144][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.14-03.31.52:150][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2021.09.14-03.31.52:156][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2021.09.14-03.31.52:179][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.09.14-03.31.52:187][394]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2021.09.14-03.31.54:791][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2021.09.14-03.31.55:894][695]LogSlate: Window 'Delete Assets' being destroyed
+[2021.09.14-03.31.56:018][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.14-03.31.56:027][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.14-03.31.56:034][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.14-03.31.56:039][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2021.09.14-03.31.56:057][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.09.14-03.31.56:064][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.09.14-03.34.14:336][370]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\source\Ammo_Box.fbx)
+[2021.09.14-03.34.14:345][370]LogFbx: Loading FBX Scene from D:\朝陽尖兵\第5章-Unreal\Ammunition Box\source\Ammo_Box.fbx
+[2021.09.14-03.34.14:427][370]LogFbx: FBX Scene Loaded Succesfully
+[2021.09.14-03.34.16:707][370]LogSlate: Window 'FBX Import Options' being destroyed
+[2021.09.14-03.34.16:821][370]LogFbxMaterialImport: Display: Unable to find Texture file Y:\Textures\Ammo_Box\Model_Textures\Mertz_Amm_Pack_normal.png
+[2021.09.14-03.34.16:838][370]LogMaterial: Display: Missing cached shader map for material Material, compiling. 
+[2021.09.14-03.34.17:209][370]LogShaderCompilers: Display: Worker (1/3): shaders left to compile 12
+[2021.09.14-03.34.17:209][370]LogShaderCompilers: Display: Worker (2/3): shaders left to compile 7
+[2021.09.14-03.34.17:209][370]LogShaderCompilers: Display: Worker (3/3): shaders left to compile 2
+[2021.09.14-03.34.17:209][370]LogFbx: Display: Triangulating static mesh Cube
+[2021.09.14-03.34.17:622][370]LogStaticMesh: Building static mesh Ammo_Box...
+[2021.09.14-03.34.17:662][370]LogStaticMesh: Built static mesh [0.04s] /Game/子彈箱/Ammo_Box.Ammo_Box
+[2021.09.14-03.34.17:681][370]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2021.09.14-03.34.21:156][664]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-03.34.21:162][664]LogSlate: Window 'Message Log' being destroyed
+[2021.09.14-03.35.08:232][213]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\textures/M_Ammo_Box_D.png)
+[2021.09.14-03.35.08:936][213]LogTexture: Display: Building textures: M_Ammo_Box_D (AutoDXT, 4096X4096)
+[2021.09.14-03.35.23:231][213]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\textures/M_Ammo_Box_N.png)
+[2021.09.14-03.35.23:960][213]LogTexture: Display: Building textures: M_Ammo_Box_N (BC5, 4096X4096)
+[2021.09.14-03.35.25:764][213]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 D:\朝陽尖兵\第5章-Unreal\Ammunition Box\textures/M_Ammo_Box_R.png)
+[2021.09.14-03.35.26:236][213]LogTexture: Display: Building textures: M_Ammo_Box_R (AutoDXT, 4096X4096)
+[2021.09.14-03.35.42:142][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.09.14-03.35.46:088][165]LogSlate: Window 'Save Content' being destroyed
+[2021.09.14-03.35.46:153][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/子彈箱/Ammo_Box" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/Ammo_Box.uasset" SILENT=true
+[2021.09.14-03.35.46:168][165]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Ammo_Box97F611244B5C0AB973D569AACE8CCA88.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/Ammo_Box.uasset'
+[2021.09.14-03.35.46:176][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/子彈箱/textures/M_Ammo_Box_D" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/M_Ammo_Box_D.uasset" SILENT=true
+[2021.09.14-03.35.47:235][165]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/M_Ammo_Box_D371F5CE5498C000048572594C8E8E2AF.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/M_Ammo_Box_D.uasset'
+[2021.09.14-03.35.47:263][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/子彈箱/textures/M_Ammo_Box_N" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/M_Ammo_Box_N.uasset" SILENT=true
+[2021.09.14-03.35.48:484][165]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/M_Ammo_Box_N43E0325749B5679F390898B465817729.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/M_Ammo_Box_N.uasset'
+[2021.09.14-03.35.48:491][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/子彈箱/textures/M_Ammo_Box_R" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/M_Ammo_Box_R.uasset" SILENT=true
+[2021.09.14-03.35.49:284][165]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/M_Ammo_Box_R7FAC975E48527BF4D6E2958989C91277.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/textures/M_Ammo_Box_R.uasset'
+[2021.09.14-03.35.49:299][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/子彈箱/Material" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/Material.uasset" SILENT=true
+[2021.09.14-03.35.49:306][165]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/Material731B1101411AFEAC2C89DEAEC1546A36.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/子彈箱/Material.uasset'
+[2021.09.14-03.35.49:329][165]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-03.35.49:329][165]LogContentValidation: Display: Validating Texture2D /Game/子彈箱/textures/M_Ammo_Box_N.M_Ammo_Box_N
+[2021.09.14-03.35.49:329][165]LogContentValidation: Display: Validating Texture2D /Game/子彈箱/textures/M_Ammo_Box_D.M_Ammo_Box_D
+[2021.09.14-03.35.49:329][165]LogContentValidation: Display: Validating StaticMesh /Game/子彈箱/Ammo_Box.Ammo_Box
+[2021.09.14-03.35.49:329][165]LogContentValidation: Display: Validating Material /Game/子彈箱/Material.Material
+[2021.09.14-03.35.49:329][165]LogContentValidation: Display: Validating Texture2D /Game/子彈箱/textures/M_Ammo_Box_R.M_Ammo_Box_R
+[2021.09.14-03.35.50:785][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2021.09.14-03.35.50:791][321]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2021.09.14-03.35.50:807][321]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景B770612D49B63F97AB970283797E874B.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景.umap'
+[2021.09.14-03.35.50:815][321]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/地圖/遊戲場景_BuiltData" FILE="C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset" SILENT=true
+[2021.09.14-03.35.50:936][321]LogSavePackage: Moving 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Saved/遊戲場景_BuiltDataBECB871140224B0D8BD21B993F4348F1.tmp' to 'C:/Users/Aito/Documents/GitHub/Unreal_HW_05_HealProp/HW_05_HealProp/Content/地圖/遊戲場景_BuiltData.uasset'
+[2021.09.14-03.35.50:949][321]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.14-03.35.50:949][321]LogContentValidation: Display: Validating World /Game/地圖/遊戲場景.遊戲場景
+[2021.09.14-03.35.50:949][321]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/地圖/遊戲場景_BuiltData.遊戲場景_BuiltData
+[2021.09.14-03.35.52:770][470]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
